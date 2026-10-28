@@ -7,5 +7,6 @@
   "original_records_value_checked": 1970,
   "original_experiments_modified": false,
   "live_model_calls_during_publication": 0,
-  "neutral_and_current_metrics_independently_reviewed": true
+  "neutral_and_current_metrics_independently_reviewed": true,
+  "readme_conclusion_and_paper_references_reviewed": true
 }
