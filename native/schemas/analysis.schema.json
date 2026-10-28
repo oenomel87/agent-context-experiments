@@ -1,0 +1,55 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "claim",
+    "facts",
+    "evidence",
+    "limitations"
+  ],
+  "properties": {
+    "claim": {
+      "type": "string",
+      "maxLength": 280
+    },
+    "facts": {
+      "type": "array",
+      "maxItems": 6,
+      "items": {
+        "type": "string",
+        "maxLength": 240
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "quote",
+          "relevance"
+        ],
+        "properties": {
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          },
+          "relevance": {
+            "type": "string",
+            "maxLength": 160
+          }
+        }
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "maxItems": 4,
+      "items": {
+        "type": "string",
+        "maxLength": 240
+      }
+    }
+  }
+}

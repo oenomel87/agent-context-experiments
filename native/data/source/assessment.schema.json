@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Argument quality assessment",
+  "type": "object", "additionalProperties": false,
+  "required": ["scores", "reason"],
+  "properties": {
+    "scores": {
+      "type": "object", "additionalProperties": false,
+      "required": ["claim_clarity", "support_linkage", "qualification"],
+      "properties": {
+        "claim_clarity": {"type": "integer", "minimum": 0, "maximum": 4},
+        "support_linkage": {"type": "integer", "minimum": 0, "maximum": 4},
+        "qualification": {"type": "integer", "minimum": 0, "maximum": 4}
+      }
+    },
+    "reason": {"type": "string", "minLength": 1, "maxLength": 300}
+  }
+}

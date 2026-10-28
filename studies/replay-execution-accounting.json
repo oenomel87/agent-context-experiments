@@ -1,0 +1,18 @@
+{
+  "final_assignments": 1330,
+  "final_valid": 1330,
+  "actual_attempts": 1360,
+  "attempt_statuses": {
+    "completed": 1330,
+    "failed": 30
+  },
+  "historical_failures": {
+    "experiment_1_seed": 3,
+    "experiment_1_target": 18,
+    "experiment_2": 9
+  },
+  "formerly_blocked_then_executed": 49,
+  "new_calls_in_user_authorized_gap_recovery": 76,
+  "unchanged_successes_preserved": 1254,
+  "usage_unknown_attempts": 27
+}

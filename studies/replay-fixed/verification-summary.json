@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "planned": 720,
+  "recorded": 720,
+  "statuses": {
+    "completed": 720
+  },
+  "unique_threads": 720,
+  "evidence_status": "Reported local audit; raw provider transcripts and private paths are not included, so this is not independently verifiable provider attestation."
+}

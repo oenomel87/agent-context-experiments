@@ -1,0 +1,36 @@
+{
+  "status": "offline_structure_checks_passed",
+  "actual_model_calls": 0,
+  "default_execution_scope": "main_four_conditions_only",
+  "main": {
+    "calls": 1090,
+    "grade_calls": 650,
+    "analysis_calls": 440,
+    "sessions": 470,
+    "common_baseline_calls": 210,
+    "four_cell_calls": {
+      "S2/warm": 220,
+      "M2/warm": 220,
+      "S2/cool": 220,
+      "M2/cool": 220
+    }
+  },
+  "auxiliary": {
+    "calls_if_common_baseline_shared": 900,
+    "sessions_if_common_baseline_shared": 580,
+    "standalone_calls_with_new_baselines": 1110
+  },
+  "combined_calls_with_shared_baseline": 1990,
+  "separate_runs_with_separate_baselines": 2200,
+  "same_session_turns_contiguous": true,
+  "no_probe_in_later_history": true,
+  "main_has_no_replay_jobs": true,
+  "all_job_ids_unique": true,
+  "live_adapter_capabilities": "not_verified_for_new_design",
+  "primary_boundary_checked": true,
+  "main_four_cells_balanced": true,
+  "multi_judgments_never_feed_analyst": true,
+  "common_baselines_once": true,
+  "all_launch_orders_topological": true,
+  "all_sessions_native_turn_order_checked": true
+}

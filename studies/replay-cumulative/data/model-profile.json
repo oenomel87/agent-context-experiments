@@ -1,0 +1,12 @@
+{
+  "requested_model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "history_representation": "explicit_record_replay",
+  "actual_model_calls": 0,
+  "deadline_seconds": 90,
+  "max_concurrency": 6,
+  "automatic_retries": 0,
+  "format_repairs": 0,
+  "context_truncation": "forbidden",
+  "model_access": "not_checked_for_this_experiment"
+}

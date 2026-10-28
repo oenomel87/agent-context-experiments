@@ -1,0 +1,434 @@
+[
+  {
+    "episode_id": "83a041626f6f170643027643",
+    "block": "A",
+    "tone": "cool",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "e745a43fde2e3232",
+      "0f51f1e5220777c3",
+      "4ae89aeed1ad9a26",
+      "7da26517aa57cab6"
+    ]
+  },
+  {
+    "episode_id": "a93d7aff4fb067a7c72a86fe",
+    "block": "B",
+    "tone": "warm",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "a26de28a2d43c3d1",
+      "03256fc478df3fa3",
+      "dd7aa17586aa1eaf",
+      "215bc01e4cd8ca21"
+    ]
+  },
+  {
+    "episode_id": "6ceef3c5aa1f0a164504579d",
+    "block": "A",
+    "tone": "warm",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "24a97aeebff7fdcd",
+      "2d89c51fe019aa47",
+      "48e55433dc2c1a72",
+      "0ce8ad5116a5f1bc"
+    ]
+  },
+  {
+    "episode_id": "67f741f2f968f3fe172ca732",
+    "block": "A",
+    "tone": "cool",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "0f51f1e5220777c3",
+      "7da26517aa57cab6",
+      "e745a43fde2e3232",
+      "4ae89aeed1ad9a26"
+    ]
+  },
+  {
+    "episode_id": "b12524014af1d4128a91e46f",
+    "block": "B",
+    "tone": "neutral",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "2bf6c8a52fe53e9b",
+      "e7c93664506afb33",
+      "35939084950d8489",
+      "59fe3879d7e66941"
+    ]
+  },
+  {
+    "episode_id": "eed670adae84eb7657c67f60",
+    "block": "A",
+    "tone": "cool",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "7da26517aa57cab6",
+      "4ae89aeed1ad9a26",
+      "0f51f1e5220777c3",
+      "e745a43fde2e3232"
+    ]
+  },
+  {
+    "episode_id": "9b043df766f0aa2a15cc85d5",
+    "block": "A",
+    "tone": "warm",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "2d89c51fe019aa47",
+      "0ce8ad5116a5f1bc",
+      "24a97aeebff7fdcd",
+      "48e55433dc2c1a72"
+    ]
+  },
+  {
+    "episode_id": "c99e1e1c1ef771e1e24773b8",
+    "block": "B",
+    "tone": "neutral",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "e7c93664506afb33",
+      "59fe3879d7e66941",
+      "2bf6c8a52fe53e9b",
+      "35939084950d8489"
+    ]
+  },
+  {
+    "episode_id": "c2ef3c6ba1cecaed1f271265",
+    "block": "B",
+    "tone": "neutral",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "35939084950d8489",
+      "2bf6c8a52fe53e9b",
+      "59fe3879d7e66941",
+      "e7c93664506afb33"
+    ]
+  },
+  {
+    "episode_id": "5c424b27c97a0533544ca0b8",
+    "block": "B",
+    "tone": "cool",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "9d3253cf6a484077",
+      "7bba22805aaa6b4e",
+      "6dce033dae872c6e",
+      "1cef3fa68e6a82f0"
+    ]
+  },
+  {
+    "episode_id": "8f94b62ddfd702f083f8e816",
+    "block": "B",
+    "tone": "neutral",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "59fe3879d7e66941",
+      "35939084950d8489",
+      "e7c93664506afb33",
+      "2bf6c8a52fe53e9b"
+    ]
+  },
+  {
+    "episode_id": "17ea4cf8fccad65c5471d402",
+    "block": "B",
+    "tone": "warm",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "dd7aa17586aa1eaf",
+      "a26de28a2d43c3d1",
+      "215bc01e4cd8ca21",
+      "03256fc478df3fa3"
+    ]
+  },
+  {
+    "episode_id": "16ba94c9b4e55d3c086862aa",
+    "block": "B",
+    "tone": "warm",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "215bc01e4cd8ca21",
+      "dd7aa17586aa1eaf",
+      "03256fc478df3fa3",
+      "a26de28a2d43c3d1"
+    ]
+  },
+  {
+    "episode_id": "aefdece641e0b6c82700ba99",
+    "block": "B",
+    "tone": "warm",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "03256fc478df3fa3",
+      "215bc01e4cd8ca21",
+      "a26de28a2d43c3d1",
+      "dd7aa17586aa1eaf"
+    ]
+  },
+  {
+    "episode_id": "329e5d10fafd4d0267b4684a",
+    "block": "A",
+    "tone": "neutral",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "8bb736cdfaf59199",
+      "2c9d954265226fcc",
+      "b74a23b8b7511c29",
+      "a13de3f4fecee9d1"
+    ]
+  },
+  {
+    "episode_id": "46c8ec4cecd9f763a7c25d90",
+    "block": "A",
+    "tone": "neutral",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "a13de3f4fecee9d1",
+      "b74a23b8b7511c29",
+      "2c9d954265226fcc",
+      "8bb736cdfaf59199"
+    ]
+  },
+  {
+    "episode_id": "8f5807d097d45b5ec032d0a8",
+    "block": "A",
+    "tone": "warm",
+    "replicate": 1,
+    "order": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "submission_ids": [
+      "0ce8ad5116a5f1bc",
+      "48e55433dc2c1a72",
+      "2d89c51fe019aa47",
+      "24a97aeebff7fdcd"
+    ]
+  },
+  {
+    "episode_id": "2adfc43f98cda287a81916b0",
+    "block": "A",
+    "tone": "neutral",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "b74a23b8b7511c29",
+      "8bb736cdfaf59199",
+      "a13de3f4fecee9d1",
+      "2c9d954265226fcc"
+    ]
+  },
+  {
+    "episode_id": "915bc47a32e6d51b59a2a1a2",
+    "block": "A",
+    "tone": "neutral",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "2c9d954265226fcc",
+      "a13de3f4fecee9d1",
+      "8bb736cdfaf59199",
+      "b74a23b8b7511c29"
+    ]
+  },
+  {
+    "episode_id": "f1d034138b1e0d6d76dcb544",
+    "block": "B",
+    "tone": "cool",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "7bba22805aaa6b4e",
+      "1cef3fa68e6a82f0",
+      "9d3253cf6a484077",
+      "6dce033dae872c6e"
+    ]
+  },
+  {
+    "episode_id": "985f9406e1f6bd52f97ff6a5",
+    "block": "B",
+    "tone": "cool",
+    "replicate": 3,
+    "order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "submission_ids": [
+      "1cef3fa68e6a82f0",
+      "6dce033dae872c6e",
+      "7bba22805aaa6b4e",
+      "9d3253cf6a484077"
+    ]
+  },
+  {
+    "episode_id": "b9a6017d9bc050e77ec8e6ee",
+    "block": "A",
+    "tone": "warm",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "48e55433dc2c1a72",
+      "24a97aeebff7fdcd",
+      "0ce8ad5116a5f1bc",
+      "2d89c51fe019aa47"
+    ]
+  },
+  {
+    "episode_id": "bcdba1317ebe76f9a189a27c",
+    "block": "B",
+    "tone": "cool",
+    "replicate": 4,
+    "order": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "submission_ids": [
+      "6dce033dae872c6e",
+      "9d3253cf6a484077",
+      "1cef3fa68e6a82f0",
+      "7bba22805aaa6b4e"
+    ]
+  },
+  {
+    "episode_id": "7eb3a378cabb3517fdcb30ca",
+    "block": "A",
+    "tone": "cool",
+    "replicate": 2,
+    "order": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "submission_ids": [
+      "4ae89aeed1ad9a26",
+      "e745a43fde2e3232",
+      "7da26517aa57cab6",
+      "0f51f1e5220777c3"
+    ]
+  }
+]

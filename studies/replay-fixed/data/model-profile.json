@@ -1,0 +1,17 @@
+{
+  "requested_model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "model_access": "not_checked_for_this_experiment",
+  "temperature": "not_set",
+  "evaluation_schema": "assessment-v1",
+  "history_representation": "explicit_record_replay",
+  "external_tools": false,
+  "hidden_reasoning_or_session_state_replayed": false,
+  "request_deadline_seconds": 90,
+  "max_reason_characters": 300,
+  "max_concurrency": 6,
+  "format_repair_attempts": 0,
+  "automatic_retry_attempts": 0,
+  "context_truncation": "forbidden",
+  "seed_failure_policy": "preserve_failure_and_stop_before_target_phase"
+}

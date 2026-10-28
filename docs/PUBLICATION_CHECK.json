@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "selected_observations": {
+    "native": 1090,
+    "replay-fixed": 720,
+    "replay-cumulative": 610
+  },
+  "total_observations": 2420,
+  "all_responses_and_usage_preserved": true,
+  "native_plan_and_input_texts_preserved": true,
+  "native_model_instructions_and_schemas_preserved": true,
+  "source_file_hashes_unchanged": true,
+  "native_unit_tests_passed": 12,
+  "publication_tests_passed": 5,
+  "live_model_calls_during_publication": 0,
+  "uploaded": false,
+  "license_status": "owner_choice_pending",
+  "raw_provider_transcripts_included": false
+}

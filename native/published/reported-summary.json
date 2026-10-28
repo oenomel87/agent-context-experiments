@@ -1,0 +1,619 @@
+{
+  "main_calls": 1090,
+  "technical_calls": 10,
+  "auxiliary_calls": 0,
+  "all_sdk_calls": 1100,
+  "failed": 0,
+  "blocked": 0,
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "neutral_baseline_mean": 9.9,
+  "cells": [
+    {
+      "cell": "S2/warm",
+      "label": "단일 · 관대·긍정",
+      "current_n": 100,
+      "current_mean": 7.45,
+      "current_paired_delta": 1.23,
+      "neutral_n": 10,
+      "neutral_mean": 11.7,
+      "neutral_paired_delta": 1.8
+    },
+    {
+      "cell": "S2/cool",
+      "label": "단일 · 냉정·엄격",
+      "current_n": 100,
+      "current_mean": 9.24,
+      "current_paired_delta": -0.75,
+      "neutral_n": 10,
+      "neutral_mean": 9.8,
+      "neutral_paired_delta": -0.1
+    },
+    {
+      "cell": "M2/warm",
+      "label": "판정 분리 · 관대·긍정",
+      "current_n": 100,
+      "current_mean": 6.84,
+      "current_paired_delta": 0.62,
+      "neutral_n": 10,
+      "neutral_mean": 9.5,
+      "neutral_paired_delta": -0.4
+    },
+    {
+      "cell": "M2/cool",
+      "label": "판정 분리 · 냉정·엄격",
+      "current_n": 100,
+      "current_mean": 9.08,
+      "current_paired_delta": -0.91,
+      "neutral_n": 10,
+      "neutral_mean": 9.7,
+      "neutral_paired_delta": -0.2
+    }
+  ],
+  "primary": {
+    "G_S": {
+      "n": 10,
+      "means": {
+        "claim_clarity": 1,
+        "qualification": 0,
+        "support_linkage": 0.9,
+        "total": 1.9
+      },
+      "per_observation": [
+        {
+          "replicate": 1,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 2,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 3,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": -1,
+            "support_linkage": 1,
+            "total": 1
+          }
+        },
+        {
+          "replicate": 4,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 5,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 6,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 7,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 1,
+            "support_linkage": 1,
+            "total": 3
+          }
+        },
+        {
+          "replicate": 8,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 9,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 10,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": 1
+          }
+        }
+      ],
+      "mean_absolute": {
+        "claim_clarity": 1,
+        "qualification": 0.2,
+        "support_linkage": 0.9,
+        "total": 1.9
+      }
+    },
+    "G_M": {
+      "n": 10,
+      "means": {
+        "claim_clarity": -0.1,
+        "qualification": -0.1,
+        "support_linkage": 0,
+        "total": -0.2
+      },
+      "per_observation": [
+        {
+          "replicate": 1,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 1,
+            "support_linkage": 0,
+            "total": 1
+          }
+        },
+        {
+          "replicate": 2,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": 0
+          }
+        },
+        {
+          "replicate": 3,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": -1,
+            "support_linkage": 0,
+            "total": -1
+          }
+        },
+        {
+          "replicate": 4,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": -1,
+            "support_linkage": 0,
+            "total": -1
+          }
+        },
+        {
+          "replicate": 5,
+          "scores": {
+            "claim_clarity": -1,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": -1
+          }
+        },
+        {
+          "replicate": 6,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 1,
+            "support_linkage": 0,
+            "total": 1
+          }
+        },
+        {
+          "replicate": 7,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": 0
+          }
+        },
+        {
+          "replicate": 8,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": 0
+          }
+        },
+        {
+          "replicate": 9,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": 0,
+            "support_linkage": 0,
+            "total": 0
+          }
+        },
+        {
+          "replicate": 10,
+          "scores": {
+            "claim_clarity": 0,
+            "qualification": -1,
+            "support_linkage": 0,
+            "total": -1
+          }
+        }
+      ],
+      "mean_absolute": {
+        "claim_clarity": 0.1,
+        "qualification": 0.5,
+        "support_linkage": 0,
+        "total": 0.6
+      }
+    },
+    "D": {
+      "n": 10,
+      "means": {
+        "claim_clarity": 1.1,
+        "qualification": 0.1,
+        "support_linkage": 0.9,
+        "total": 2.1
+      },
+      "per_observation": [
+        {
+          "replicate": 1,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": -1,
+            "support_linkage": 1,
+            "total": 1
+          }
+        },
+        {
+          "replicate": 2,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 3,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 4,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 1,
+            "support_linkage": 1,
+            "total": 3
+          }
+        },
+        {
+          "replicate": 5,
+          "scores": {
+            "claim_clarity": 2,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 3
+          }
+        },
+        {
+          "replicate": 6,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": -1,
+            "support_linkage": 1,
+            "total": 1
+          }
+        },
+        {
+          "replicate": 7,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 1,
+            "support_linkage": 1,
+            "total": 3
+          }
+        },
+        {
+          "replicate": 8,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 9,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 0,
+            "support_linkage": 1,
+            "total": 2
+          }
+        },
+        {
+          "replicate": 10,
+          "scores": {
+            "claim_clarity": 1,
+            "qualification": 1,
+            "support_linkage": 0,
+            "total": 2
+          }
+        }
+      ],
+      "mean_absolute": {
+        "claim_clarity": 1.1,
+        "qualification": 0.5,
+        "support_linkage": 0.9,
+        "total": 2.1
+      }
+    }
+  },
+  "paired_gaps": [
+    {
+      "replicate": 1,
+      "single_gap": 2,
+      "multi_gap": 1,
+      "interaction": 1,
+      "single_abs": 2,
+      "multi_abs": 1
+    },
+    {
+      "replicate": 2,
+      "single_gap": 2,
+      "multi_gap": 0,
+      "interaction": 2,
+      "single_abs": 2,
+      "multi_abs": 0
+    },
+    {
+      "replicate": 3,
+      "single_gap": 1,
+      "multi_gap": -1,
+      "interaction": 2,
+      "single_abs": 1,
+      "multi_abs": 1
+    },
+    {
+      "replicate": 4,
+      "single_gap": 2,
+      "multi_gap": -1,
+      "interaction": 3,
+      "single_abs": 2,
+      "multi_abs": 1
+    },
+    {
+      "replicate": 5,
+      "single_gap": 2,
+      "multi_gap": -1,
+      "interaction": 3,
+      "single_abs": 2,
+      "multi_abs": 1
+    },
+    {
+      "replicate": 6,
+      "single_gap": 2,
+      "multi_gap": 1,
+      "interaction": 1,
+      "single_abs": 2,
+      "multi_abs": 1
+    },
+    {
+      "replicate": 7,
+      "single_gap": 3,
+      "multi_gap": 0,
+      "interaction": 3,
+      "single_abs": 3,
+      "multi_abs": 0
+    },
+    {
+      "replicate": 8,
+      "single_gap": 2,
+      "multi_gap": 0,
+      "interaction": 2,
+      "single_abs": 2,
+      "multi_abs": 0
+    },
+    {
+      "replicate": 9,
+      "single_gap": 2,
+      "multi_gap": 0,
+      "interaction": 2,
+      "single_abs": 2,
+      "multi_abs": 0
+    },
+    {
+      "replicate": 10,
+      "single_gap": 1,
+      "multi_gap": -1,
+      "interaction": 2,
+      "single_abs": 1,
+      "multi_abs": 1
+    }
+  ],
+  "absolute_gap_comparison": {
+    "multi_smaller": 8,
+    "equal": 2,
+    "multi_larger": 0
+  },
+  "current_delta_by_position": {
+    "S2/warm": {
+      "1": 0.4,
+      "2": 0.9,
+      "3": 1.2,
+      "4": 1.7,
+      "5": 1.3,
+      "6": 1.3,
+      "7": 1.3,
+      "8": 1.3,
+      "9": 1.5,
+      "10": 1.4
+    },
+    "S2/cool": {
+      "1": -1.4,
+      "2": -1.2,
+      "3": -0.5,
+      "4": -0.6,
+      "5": -0.8,
+      "6": -0.9,
+      "7": -0.4,
+      "8": -0.6,
+      "9": -0.3,
+      "10": -0.8
+    },
+    "M2/warm": {
+      "1": 0.5,
+      "2": 0.8,
+      "3": 0.7,
+      "4": 0.8,
+      "5": 0.3,
+      "6": 0.8,
+      "7": 0.7,
+      "8": 0.7,
+      "9": 0.5,
+      "10": 0.4
+    },
+    "M2/cool": {
+      "1": -1.1,
+      "2": -1.4,
+      "3": -1.1,
+      "4": -0.8,
+      "5": -0.7,
+      "6": -1.1,
+      "7": -0.2,
+      "8": -1.1,
+      "9": -0.6,
+      "10": -1
+    }
+  },
+  "analysis_quote_flags": [
+    {
+      "job_id": "a7eabba56fc001d182d6",
+      "arm": "S2",
+      "tone": "cool",
+      "replicate": 6,
+      "position": 7,
+      "flag": {
+        "index": 2,
+        "quote": "실제 발표에서 시간을 맞춘 것은 성과이되, 처음부터 검토했어야 할 조건을 뒤늦게 반영한 점も 남습니다.",
+        "type": "quote_not_literal_in_current_text"
+      }
+    },
+    {
+      "job_id": "ee0bce4f34f57db6e280",
+      "arm": "S2",
+      "tone": "cool",
+      "replicate": 7,
+      "position": 9,
+      "flag": {
+        "index": 2,
+        "quote": "실제 발표에서 시간을 맞춘 것은 성과이되, 처음부터 검토했어야 할 조건을 뒤늦게 반영한 점も 남습니다.",
+        "type": "quote_not_literal_in_current_text"
+      }
+    },
+    {
+      "job_id": "c9605330b2b3ae021786",
+      "arm": "S2",
+      "tone": "cool",
+      "replicate": 2,
+      "position": 2,
+      "flag": {
+        "index": 2,
+        "quote": "실제 발표에서 시간을 맞춘 것은 성과이되, 처음부터 검토했어야 할 조건을 뒤늦게 반영한 점も 남습니다.",
+        "type": "quote_not_literal_in_current_text"
+      }
+    },
+    {
+      "job_id": "d60b385bc40d912582ae",
+      "arm": "M2",
+      "tone": "cool",
+      "replicate": 8,
+      "position": 10,
+      "flag": {
+        "index": 2,
+        "quote": "실제 발표에서 시간을 맞춘 것은 성과이되, 처음부터 검토했어야 할 조건을 뒤늦게 반영한 점も 남습니다.",
+        "type": "quote_not_literal_in_current_text"
+      }
+    },
+    {
+      "job_id": "d567d21b001d7c9166c7",
+      "arm": "M2",
+      "tone": "cool",
+      "replicate": 5,
+      "position": 5,
+      "flag": {
+        "index": 2,
+        "quote": "실제 발표에서 시간을 맞춘 것은 성과이되, 처음부터 검토했어야 할 조건을 뒤늦게 반영한 점も 남습니다.",
+        "type": "quote_not_literal_in_current_text"
+      }
+    }
+  ],
+  "analysis_flag_count": 5,
+  "usage_by_arm": {
+    "S2": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 4555136,
+      "input_tokens": 5405274,
+      "output_tokens": 97342,
+      "reasoning_output_tokens": 0
+    },
+    "M2": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 2641664,
+      "input_tokens": 3278248,
+      "output_tokens": 102336,
+      "reasoning_output_tokens": 760
+    },
+    "I": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 950656,
+      "input_tokens": 1231660,
+      "output_tokens": 26028,
+      "reasoning_output_tokens": 2736
+    }
+  },
+  "preflight_usage": {
+    "input_tokens": 59624,
+    "cached_input_tokens": 17408,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1559,
+    "reasoning_output_tokens": 23
+  },
+  "main_usage": {
+    "cache_write_input_tokens": 0,
+    "cached_input_tokens": 8147456,
+    "input_tokens": 9915182,
+    "output_tokens": 225706,
+    "reasoning_output_tokens": 3496
+  },
+  "native_topology": {
+    "I/1": 210,
+    "S2/22": 20,
+    "M2/11": 20,
+    "M2/1": 220
+  }
+}

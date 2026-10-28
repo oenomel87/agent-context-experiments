@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "planned": 1090,
+  "recorded": 1090,
+  "statuses": {
+    "completed": 1090
+  },
+  "unique_threads": 470,
+  "native_topology": {
+    "I/1": 210,
+    "S2/22": 20,
+    "M2/11": 20,
+    "M2/1": 220
+  },
+  "fully_verified_native_sessions": 470,
+  "evidence_status": "Reported local audit; raw provider transcripts and private paths are not included, so this is not independently verifiable provider attestation."
+}
