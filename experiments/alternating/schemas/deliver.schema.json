@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "action",
+    "request_id",
+    "evaluation_id"
+  ],
+  "properties": {
+    "action": {
+      "type": "string",
+      "enum": [
+        "deliver"
+      ]
+    },
+    "request_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "evaluation_id": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

@@ -1,6 +1,6 @@
 """Check the public copy for disallowed artifacts and credential-like strings; print no values."""
 from pathlib import Path
-import json,re,sys
+import json,re,sys,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 FORBIDDEN_DIRS={'node_modules','.venv','.codex','runs','traces','native-evidence','snapshots'}
 PATTERNS={
@@ -26,6 +26,12 @@ def check():
   except UnicodeError:continue
   for name,pattern in PATTERNS.items():
    if pattern.search(text):errors.append({'path':str(rel),'issue':name})
+ manifest=ROOT/'PUBLICATION_MANIFEST.json'
+ if manifest.exists():
+  expected=json.loads(manifest.read_text())['files']
+  actual={str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in ROOT.rglob('*') if p.is_file() and not any(x in {'.git','__pycache__','build'} for x in p.relative_to(ROOT).parts) and str(p.relative_to(ROOT)) not in {'PUBLICATION_MANIFEST.json','docs/PUBLICATION_CHECK.json'}}
+  for path in sorted(set(expected)|set(actual)):
+   if expected.get(path)!=actual.get(path):errors.append({'path':path,'issue':'manifest_mismatch'})
  return {'status':'passed' if not errors else 'failed','files_checked':files,'issues':errors,'scope':'Static public-copy checks only; no legal clearance or proof that every possible secret is absent.'}
 if __name__=='__main__':
  result=check();print(json.dumps(result,ensure_ascii=False,indent=2));sys.exit(0 if result['status']=='passed' else 1)

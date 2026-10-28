@@ -1,5 +1,0 @@
-{
-  "source": "data/source; approved synthetic input text reused without historical model scores",
-  "text_and_author_identity_preserved": true,
-  "old_model_scores_reused": false
-}

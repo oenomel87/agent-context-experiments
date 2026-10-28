@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "planned": 1090,
+  "recorded": 1090,
+  "unrecorded": 0,
+  "statuses": {
+    "completed": 1069,
+    "blocked": 18,
+    "failed": 3
+  },
+  "unique_threads": 464,
+  "fully_verified_native_sessions": 461,
+  "native_topology": {
+    "I/evaluator/1": 210,
+    "S/evaluator/11": 20,
+    "M/coordinator/22": 17,
+    "M/evaluator/1": 214
+  },
+  "verified_exact_deliveries": 211,
+  "identical_evaluator_payloads_by_submission": 21,
+  "usage_unknown_attempts": 0,
+  "commentary_messages_by_role": {
+    "evaluator": 0,
+    "coordinator": 1
+  },
+  "includes_reused_baselines": false,
+  "evidence_status": "Reported local audit. Raw provider transcripts and private instructions are not published; not an independently verifiable provider attestation."
+}

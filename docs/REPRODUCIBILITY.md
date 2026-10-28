@@ -1,46 +1,31 @@
-# 재현 범위와 실행
+# 재현 범위
 
-## 모델 없이 가능한 작업
+## 공개 관측 재계산
 
-저장소 루트에서 다음 명령을 실행한다. Python 표준 라이브러리만 사용하는 공개 관측 재검산과 모의 테스트다.
+Python 표준 라이브러리만 필요하다. 저장소 루트에서 실행한다.
 
 ```sh
 python3 tools/recompute.py
-python3 -m unittest discover -s native/tests -v
 python3 -m unittest discover -s tests -v
+python3 -m unittest discover -s experiments/homogeneous/tests -v
+python3 -m unittest discover -s experiments/alternating/tests -v
 python3 tools/check_publication.py
 ```
 
-모든 관측을 대상으로 다시 계산한다. 점수 평균은 논증 품질이며 정답률이 아니다. 1,090개 요청은 같은 글과 이력을 공유하므로 독립 표본1,090개를 뜻하지 않는다.
+`build/recomputed-summary.json`은 원시 공개 관측에서 새로 계산한다. `reports/recomputed-summary.json`은 게시 시 검산한 결과다. 각 실험의 `reported-summary.json`은 로컬의 별도 검증된 집계에서 내보낸 비교 기준이다. 단건 I는 동질 기록에서 가져와 교대 계산에 연결하며 전체 관측 수에서는 한 번만 센다.
 
-## 설계 재생성
+두 실험의 테스트는 별도 Python 프로세스로 실행한다. 같은 이름의 모듈·테스트가 있으므로 한 프로세스에서 두 테스트 경로를 합쳐 호출하지 않는다. 가상 어댑터 테스트이며 실제 모델 응답과 섞이지 않는다.
 
-```sh
-python3 native/src/build_design.py
-python3 native/src/validate_design.py
-```
+## 공개 코드의 역할
 
-설계는 주 실험1,090개와 실행하지 않은 보조 계획으로 구분된다. 기본 data/plan.json에는 주 실험만 포함한다. 생성기는 합성 입력과 배정을 만들며 관측표를 덮어쓰지 않는다.
+`experiments/*/src`는 실제 실험의 역할 계약·실행기·보고기·감사 코드다. 공개본에서는 backend 경로와 라이브 호출 opt-in만 이식했다. 역할 지침·루브릭·출력 스키마·관측 점수는 변경하지 않았다. 계획의 실행 상태 메타데이터만 공개 시점에 갱신했다.
 
-## 선택적인 새 라이브 실행
+**공개본은 새 라이브 실험을 즉시 실행하는 배포 패키지가 아니다.** 자동 실행 supervisor, 개인 경로에 묶인 복구 래퍼, 원본 preflight 증거와 run snapshots는 제외했다. `run_experiment.py`에는 사전 점검 증거가 필요한 실행 제약이 그대로 남아 있다. 공개 검사에서 이 제약을 우회해 서비스를 호출하지 않는다. `EXPERIMENT_ENABLE_LIVE=1`도 단독으로 검증된 실행 환경을 만들어 주지 않는다.
 
-이 부분은 모델 서비스에 실제 요청을 보내며 사용량을 발생시킨다. 기존 공개 결과의 재검산에는 필요 없다. 검증한 원래 환경은 macOS, Python3.14, Node.js, Codex SDK/CLI0.159.3이었다. Linux/Windows의 권한 격리 경로는 이 연구에서 검증하지 않았다.
+backend에는 원래 SDK/CLI0.159.3 연결 코드와 의존성 목록을 보존했다. 검증한 원래 환경은 macOS/Python3.14/Node.js와 소유자의 기존 Codex ChatGPT 로그인이었다. 해당 모델에 대한 타 계정 접근이나 Linux/Windows 권한 격리는 보장하지 않는다. 새 모델 호출의 검증이나 모델 자동 대체는 수행하지 않았다.
 
-backend/package.json, package-lock.json과 requirements.lock.txt는 원래 버전을 기록한다. 의존성 소스·바이너리와 로그인 캐시는 포함하지 않는다. 라이브 코드는 기존 Codex의 ChatGPT 로그인을 사용하며 인증정보를 저장소에 넣지 않는다. 연구 당시 gpt-6-luna가 해당 계정에서 관측됐다는 기록일 뿐, 모든 공개 계정에서 이 모델에 접근할 수 있다는 보장은 아니다. 자동으로 다른 모델을 선택하지 않는다.
+## 완전히 재현할 수 없는 항목
 
-원래 실행기 인터페이스를 보존한 예시:
+공급자 원본 대화, 개인/관리 초기 지침, 로그인 캐시, 실제 공급자 세션 ID는 공개하지 않는다. 공개 별칭으로 원래 세션의 관계는 볼 수 있지만 원본 공급자 로그의 독립 인증은 아니다. 모델의 비결정적 출력, 서버 측 변경, 캐시·실행 시각까지 동일하게 재현한다고 주장하지 않는다.
 
-```sh
-python3 -m venv backend/.venv
-. backend/.venv/bin/activate
-python -m pip install -r backend/requirements.lock.txt
-npm --prefix backend ci
-# 자신의 Codex 계정/모델 접근을 별도로 확인한 뒤에만 설정한다.
-export EXPERIMENT_ENABLE_LIVE=1
-python native/src/preflight.py --output native/runs/preflight-20261025-v1
-python native/src/launch_main.py
-```
-
-디렉터리 이름의 날짜는 보존한 실행 라벨이다. 이미 같은 출력 폴더가 있으면 덮어쓰기 대신 중단한다. 실제 SDK 세션의 부분 중단을 JSON 재생으로 대체하지 않는다. 기술 점검과 본 실행이 생성하는 runs/는 gitignore 대상이다.
-
-이 공개본 준비 과정에서는 의존성을 새로 설치하거나 라이브 모델을 다시 호출하지 않았다. 실행 환경에서 초기 개인/관리 지침이 추가될 수 있으며, 원래 환경의 개인 지침 원문은 공개하지 않았다. 동일한 확률적 모델 출력의 재현이나 환경 지침까지의 완전한 동일성은 보장하지 않는다.
+기술 점검9건, 중단으로 제외된 추가 시도9건은 본 관측 밖의 원장에 있다. 제외된 완료3개 응답은 별도 파일에 보존했다. 미기록6건 중1건의 SDK 완료·사용량 흔적만 남았고5건은 사용량 미상이다. 교대 시간 초과1건도 사용량 미상이다. 관측된 토큰 합계는 완전한 청구액이 아니다.

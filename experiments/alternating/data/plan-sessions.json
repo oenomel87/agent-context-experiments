@@ -1,0 +1,6262 @@
+[
+  {
+    "session_key": "e472a54eef6e67f8c507",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b1dbcc2cb53b8aca9e05"
+    ]
+  },
+  {
+    "session_key": "3f5e3f1ca5c0c94765b5",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "fe023ee92977f17fdf1e"
+    ]
+  },
+  {
+    "session_key": "04105e07a894b3277f83",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1bffdec06aff6a42e694"
+    ]
+  },
+  {
+    "session_key": "e0a529ad04eacf30973a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e0d4d9c3f29493e06123"
+    ]
+  },
+  {
+    "session_key": "965f9532d5be413a6308",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0ded8571a85219e21ef7"
+    ]
+  },
+  {
+    "session_key": "82240ace7d394591ab22",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5af419c0cf53a7421762"
+    ]
+  },
+  {
+    "session_key": "27e4d704054bd0d57be6",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "03af8fd67098eab196a1"
+    ]
+  },
+  {
+    "session_key": "3c3fc2099b14e6fe7f70",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "27a9754793f7844188cf"
+    ]
+  },
+  {
+    "session_key": "a218d46fd5f4ae2b0fec",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a8e92a9642db7c843652"
+    ]
+  },
+  {
+    "session_key": "8fbf2219c18556a09c79",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "76539763d6b842ae23eb"
+    ]
+  },
+  {
+    "session_key": "4b06f67c2e4e8620f76b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "571b24882e69a3528a86"
+    ]
+  },
+  {
+    "session_key": "77307bc923361c27c64e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "64120834515c2ff06fe3"
+    ]
+  },
+  {
+    "session_key": "f8270c61e0d936ebea12",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c78f86ba81dd52ca17d1"
+    ]
+  },
+  {
+    "session_key": "5e600f63fbba6ab4af98",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e335332c263f6518c228"
+    ]
+  },
+  {
+    "session_key": "359e669fc2f0074ec3ee",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b13bbbdb7ecd6845a018"
+    ]
+  },
+  {
+    "session_key": "94aeedeba6b491a266f1",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3e3b8ad1ab16ce5c4280"
+    ]
+  },
+  {
+    "session_key": "ff9e49cd7f84149f31fd",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e00a6ea9f5233260fc4d"
+    ]
+  },
+  {
+    "session_key": "71615ec93aaccc091821",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b3a5f2f7a1f27da156ee"
+    ]
+  },
+  {
+    "session_key": "2308b51810900e39f369",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7dcf75f776fbb9d35308"
+    ]
+  },
+  {
+    "session_key": "2d99183ccc3ceb22a373",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "26c0e041e04c29d399ab"
+    ]
+  },
+  {
+    "session_key": "498f91f1f04048c40355",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 1,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "127810109cf147c4ffc6"
+    ]
+  },
+  {
+    "session_key": "c1486d3760f84ecaed8d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ac2d3926ee9e6df3e34c"
+    ]
+  },
+  {
+    "session_key": "a230eb56b79eb966253d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5391bf5b47309dedeb3b"
+    ]
+  },
+  {
+    "session_key": "eea595f7659add5df8fc",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "4dc0d2e9f8f1be6cf75b"
+    ]
+  },
+  {
+    "session_key": "a0249ee52620e1193887",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f756ff28a41bca5ad11d"
+    ]
+  },
+  {
+    "session_key": "728fa79470c115583066",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "779ecd2ff6259bd0691f"
+    ]
+  },
+  {
+    "session_key": "64a6190ed40a30e0d86b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ad90033797bddfdeb596"
+    ]
+  },
+  {
+    "session_key": "729a2b3e27631e854563",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "37acafc35d1c170b8525"
+    ]
+  },
+  {
+    "session_key": "8ec38ca2b3cc7cc46abe",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c3ff2471cfdbfdc3e3ff"
+    ]
+  },
+  {
+    "session_key": "96d9ee81abf0df8c3561",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "4801d9cd2317ad86526a"
+    ]
+  },
+  {
+    "session_key": "0751b817274c7c74e64b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "48e6e15efd5d563095af"
+    ]
+  },
+  {
+    "session_key": "94cc44176e202551fe06",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3cca293fb2261d0463f3"
+    ]
+  },
+  {
+    "session_key": "8f7c931db66e206d37c8",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "507331302939a6d705c6"
+    ]
+  },
+  {
+    "session_key": "89d19bd0007f37825875",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "8406686156ff8a3b8eec"
+    ]
+  },
+  {
+    "session_key": "17cdf9fdaf214c331fda",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5f8a1851877fdbc27051"
+    ]
+  },
+  {
+    "session_key": "4bdbf9f69f89f1ed6e0d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7f410a7e3d3824c9716d"
+    ]
+  },
+  {
+    "session_key": "2727e250f9366d582fb4",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "549062c4ac719862f754"
+    ]
+  },
+  {
+    "session_key": "e466848daa38f08d398f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "59df684122d64f11b861"
+    ]
+  },
+  {
+    "session_key": "5b40ab7648533463ead4",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1c602d067a02b1c52dcd"
+    ]
+  },
+  {
+    "session_key": "b30a3913197de1b4820f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b650ee75e405528bc68b"
+    ]
+  },
+  {
+    "session_key": "6c76de55b7e7b78f9027",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "87fe284d71b263eee88f"
+    ]
+  },
+  {
+    "session_key": "3a02b1a67b04dee5a503",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 2,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b5a4720ba5ac3f1589fa"
+    ]
+  },
+  {
+    "session_key": "a68aa8990e878d332462",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c526c3094fd6d138cde6"
+    ]
+  },
+  {
+    "session_key": "c96869c47c3a49763e7b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b4f36c69f5b671dc22f4"
+    ]
+  },
+  {
+    "session_key": "a8747c36dc9be83cfa99",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7e618b8fefd24374bf73"
+    ]
+  },
+  {
+    "session_key": "8d92df6db46a6b0315be",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "bf5cb193ddae47a62c06"
+    ]
+  },
+  {
+    "session_key": "d509cc72f3c966b98658",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "262b8c482fac38ba3bf1"
+    ]
+  },
+  {
+    "session_key": "6803574654d016ed891d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "17567e552c5aaa562f3a"
+    ]
+  },
+  {
+    "session_key": "65c8cd6370c5feba0b41",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "78536f36c0ea63f34f67"
+    ]
+  },
+  {
+    "session_key": "686f490aeb1022caa159",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3ea9f8680763ad8bec7f"
+    ]
+  },
+  {
+    "session_key": "7dca95e21143e53c46f7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d1f4fac5397491217bc5"
+    ]
+  },
+  {
+    "session_key": "aba10ed65807e2f9e282",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "dd67f69af89d078d4624"
+    ]
+  },
+  {
+    "session_key": "d02beaf98711f286cd64",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "74083aa9e9dd88037b84"
+    ]
+  },
+  {
+    "session_key": "2a6d8e2d1c786e181ac5",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "dccc9dcbe74bc296e271"
+    ]
+  },
+  {
+    "session_key": "28210991d4fcc8867d1f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "99c0378acdf0f58fd0ef"
+    ]
+  },
+  {
+    "session_key": "6c5ff89c099039f14404",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "922b34c6d0aae47aeb47"
+    ]
+  },
+  {
+    "session_key": "5ccb2bcd9cd37159a0c6",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "2a95ded889af34ce5eff"
+    ]
+  },
+  {
+    "session_key": "bcc2fa3b7b72cb771db6",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "50e28145c085c27de003"
+    ]
+  },
+  {
+    "session_key": "8c27088d670c8bb97467",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b4a511f0960672d47d09"
+    ]
+  },
+  {
+    "session_key": "80939d82babfff43ceca",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "655cd5090d262559c6f1"
+    ]
+  },
+  {
+    "session_key": "06d0c561ab6affeb2b01",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f281c8abf5e1f222ba01"
+    ]
+  },
+  {
+    "session_key": "9f8c7d2ffd6d86e23fd0",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e76694e85d3298cde4f1"
+    ]
+  },
+  {
+    "session_key": "e9bf28c0a71fc8a34792",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 3,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "48aeb32290f19723a976"
+    ]
+  },
+  {
+    "session_key": "1d73df26cd8718c70987",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "70a1911593a0469e37ba"
+    ]
+  },
+  {
+    "session_key": "d3a8c8d1221d58936d7d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "db7b18a52f1a5dd22e34"
+    ]
+  },
+  {
+    "session_key": "2322e39c075226624664",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "4cd1d2fe6ffc2cfdebd1"
+    ]
+  },
+  {
+    "session_key": "ff6f05f225c0966ab0b5",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "fcf6ba7c2c847b24f0c6"
+    ]
+  },
+  {
+    "session_key": "ccf79a67adf31446a1a9",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "52c49113971ad9f4d41e"
+    ]
+  },
+  {
+    "session_key": "a2efe995af34d8658e44",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "11a84cbdc35e754ed482"
+    ]
+  },
+  {
+    "session_key": "a3378c15a38af4d574dd",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a5f3ca59ff923e761e43"
+    ]
+  },
+  {
+    "session_key": "27ea075e09c6d9c95181",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "93b093b9cf55d2d87062"
+    ]
+  },
+  {
+    "session_key": "045ff32e3c4382e060ea",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e7c4c1d042e83e1339c1"
+    ]
+  },
+  {
+    "session_key": "e95877e8f87f8bf945a8",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b6c928093dcc788c78de"
+    ]
+  },
+  {
+    "session_key": "be562515b8a47a63fc8d",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e973d9a706b3f9db687a"
+    ]
+  },
+  {
+    "session_key": "2c67697d18154b834803",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "cdb0fd77542aada001a5"
+    ]
+  },
+  {
+    "session_key": "8b9adc6c516e1ced63b2",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5ce1f45eff1aab6719e6"
+    ]
+  },
+  {
+    "session_key": "ce5e642e5bb243bb390e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "472a584ebccab995d55a"
+    ]
+  },
+  {
+    "session_key": "1cd7af559fdaf442d440",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "6847bab4780d151c4dec"
+    ]
+  },
+  {
+    "session_key": "6a53af4b22a0193fbe26",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e961e53823a7863ebe1f"
+    ]
+  },
+  {
+    "session_key": "5a7257d83321f86cd0ed",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "121a02b5d00011511c7f"
+    ]
+  },
+  {
+    "session_key": "76f6b18bd557d0dd6816",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "24e18c0c6335d12dbc03"
+    ]
+  },
+  {
+    "session_key": "75b7eaebe9c617cb4fb7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "081d8cf55282456b974e"
+    ]
+  },
+  {
+    "session_key": "a1773ce3b9a55870d3e1",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "fa277761590b6b48a4be"
+    ]
+  },
+  {
+    "session_key": "f27801dde3ec2094326f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 4,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "cccdede81396837bb1ba"
+    ]
+  },
+  {
+    "session_key": "b3e24a8ea420922fb036",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c0ce8dcb26f322da6936"
+    ]
+  },
+  {
+    "session_key": "ba09dd990b623a2beab3",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e52eb1b1dda40c23a455"
+    ]
+  },
+  {
+    "session_key": "b7f5e7f89bd78fb1f66e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c980b36c39f544a7f768"
+    ]
+  },
+  {
+    "session_key": "dbd34e78ddc9e0b6c40e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "11961a7835680630deff"
+    ]
+  },
+  {
+    "session_key": "f183660b12a2fe717085",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "2dc72a95971f3d8954d2"
+    ]
+  },
+  {
+    "session_key": "a89b13e06da86158eca1",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5f71b114099d0059361f"
+    ]
+  },
+  {
+    "session_key": "c69cfb81bbbc858fc354",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "8bb331cec1471f265619"
+    ]
+  },
+  {
+    "session_key": "b1b2e28ff0610c9ea4d6",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b8bbffa3ebb8aa482ad7"
+    ]
+  },
+  {
+    "session_key": "d1596e6b1b0754937840",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e275fc124c79f412a8ad"
+    ]
+  },
+  {
+    "session_key": "555ace3a21b03673efd0",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "de75d35d76c686b59a18"
+    ]
+  },
+  {
+    "session_key": "3559543072efdc3cdc90",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "6bb0c15f781c1b3cb880"
+    ]
+  },
+  {
+    "session_key": "4081f991e40f7abb34fd",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "626cc8407a98f41e4cf9"
+    ]
+  },
+  {
+    "session_key": "f237aabfa6edc5f06601",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0d12c104e579a779d883"
+    ]
+  },
+  {
+    "session_key": "6692ee5c5ba729972fab",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "cb6e374df7c1602da1c9"
+    ]
+  },
+  {
+    "session_key": "699b1e92982f9526d74b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "59eb38be51858bbc209f"
+    ]
+  },
+  {
+    "session_key": "be24a659781da2e3309f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c5f745b1c3b514bf8fc2"
+    ]
+  },
+  {
+    "session_key": "bbf5d8bfe714499b15fe",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9e1eeedd5a35556c10ce"
+    ]
+  },
+  {
+    "session_key": "d446f7248a80d86f1c46",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a6ee0f90d81e5c4cd457"
+    ]
+  },
+  {
+    "session_key": "43e50e1c1f81643d6f77",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "93aa1d889728d8456f33"
+    ]
+  },
+  {
+    "session_key": "38a4e533e4992e047316",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7f4929d63ab89047494a"
+    ]
+  },
+  {
+    "session_key": "444c710ab76bf7ebf085",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 5,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "57ff65537b9a49a0b0e4"
+    ]
+  },
+  {
+    "session_key": "8361831c62ecd3c92c0f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9b509923606ae763b3f8"
+    ]
+  },
+  {
+    "session_key": "1c616c82b6a3f7f4c551",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c86154caa0a5768a3e85"
+    ]
+  },
+  {
+    "session_key": "31459cd259b055550722",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "96393cf2e17db810c1ff"
+    ]
+  },
+  {
+    "session_key": "e3b712bda4a5dd578b8c",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1cf8e7522beb02c33619"
+    ]
+  },
+  {
+    "session_key": "92b5d3ceae29661bfe76",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "cffd7d81656705e723d1"
+    ]
+  },
+  {
+    "session_key": "8b4c9edd70ac7bf64c8a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ac0bf86d4253488747e4"
+    ]
+  },
+  {
+    "session_key": "0328138e2b99297b3e2b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "acde2c600db8e2439c97"
+    ]
+  },
+  {
+    "session_key": "5db026428efacc896601",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "feaa3bcf86e22bc2c898"
+    ]
+  },
+  {
+    "session_key": "dc6acad985551706c5e0",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9b95536a494c780783d6"
+    ]
+  },
+  {
+    "session_key": "97faf37516298fcaec51",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0636d0d7db156c668dd4"
+    ]
+  },
+  {
+    "session_key": "74e7f08f5ffea9a752da",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a8ade5664fb013d715ae"
+    ]
+  },
+  {
+    "session_key": "cc0c1466c01f4c577a67",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "adb188338917e5fc891e"
+    ]
+  },
+  {
+    "session_key": "a8592fb779003a788e1a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "81fddda2fb6d175e9e29"
+    ]
+  },
+  {
+    "session_key": "d9a1ee21096c5c0a9cf4",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d31f959f3483f4d30305"
+    ]
+  },
+  {
+    "session_key": "e46037f9704194175a64",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a7486084baa12500bb8b"
+    ]
+  },
+  {
+    "session_key": "1bfa8495c46b5d61f36e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c89b80a08168b73aec2f"
+    ]
+  },
+  {
+    "session_key": "ac22cbed6a2ca35ed616",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d336ffe9cddcdda294e2"
+    ]
+  },
+  {
+    "session_key": "c72c3d7e38ff6d201626",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "92aa0bbfa7a89c7f1142"
+    ]
+  },
+  {
+    "session_key": "c8feb4cb683f1c054439",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ff9374c6009e549784c4"
+    ]
+  },
+  {
+    "session_key": "f2936904b3380a8ba5c1",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "bcbfc5cf1aa3ff0924ae"
+    ]
+  },
+  {
+    "session_key": "af30537c3a077887504f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 6,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f3c4c7bfd14ff3add99c"
+    ]
+  },
+  {
+    "session_key": "b3f838699b92152bc433",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "941444f937f6e00f25dc"
+    ]
+  },
+  {
+    "session_key": "c2bb5e7d2a983c3aaecd",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "194e93d8cad66645b9ef"
+    ]
+  },
+  {
+    "session_key": "9b43d212c3c74a65d795",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e6e2e6d0d78a47f7531f"
+    ]
+  },
+  {
+    "session_key": "b08971c905e431053433",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "84e3177e21d55b7f2176"
+    ]
+  },
+  {
+    "session_key": "e6bab5dd5145039fb96f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f0a81d04fa86baebbc6d"
+    ]
+  },
+  {
+    "session_key": "2421d53d140c1bcdae94",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3dcb77edae98b24be59e"
+    ]
+  },
+  {
+    "session_key": "dbe0de49113baff717da",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1165afee039590401dd9"
+    ]
+  },
+  {
+    "session_key": "98c51884cd1e34614355",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "dd2495239ae647ad7216"
+    ]
+  },
+  {
+    "session_key": "f9fdb2d3a6173f379a41",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e8a8d0e3d3c8c9092b34"
+    ]
+  },
+  {
+    "session_key": "bc19a89f894c9cabc6ff",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0c8bdd1661d1bdc8eb5a"
+    ]
+  },
+  {
+    "session_key": "b644f2896821e4d574c3",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "2b7c0d7fa7bb670085e5"
+    ]
+  },
+  {
+    "session_key": "701e974864e3db1d5b09",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "55c3c81f9ff444d217e5"
+    ]
+  },
+  {
+    "session_key": "5258989a45043b58e0d2",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b8cc2bc7541abd3d6473"
+    ]
+  },
+  {
+    "session_key": "56a9657ab453b2d48ba0",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "19cd80b9f6bde4ad86c1"
+    ]
+  },
+  {
+    "session_key": "646772e9b1d343038e93",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "be64fd6b8d5d93cc198d"
+    ]
+  },
+  {
+    "session_key": "5a33dc973789e8080299",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3b677046b98516cc356a"
+    ]
+  },
+  {
+    "session_key": "b57254997153ede9c99f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9d61ab1c01ac5120d07b"
+    ]
+  },
+  {
+    "session_key": "5d8b0ca860133e9827b7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c71ce130c4b35b17b198"
+    ]
+  },
+  {
+    "session_key": "2a67579253f9e4b5dc04",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3023467ad5e4eabb76ba"
+    ]
+  },
+  {
+    "session_key": "c37f40b606e2843bf2ca",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "643520cadf1298d4c669"
+    ]
+  },
+  {
+    "session_key": "157e64ebda7b87161399",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 7,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1af96c87122e8ef9be9d"
+    ]
+  },
+  {
+    "session_key": "83f0168535bba68d1242",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c09188d40a6ad7399346"
+    ]
+  },
+  {
+    "session_key": "2d8ef8eaeff552528eed",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "a7d6c1e659bb7ff61f5d"
+    ]
+  },
+  {
+    "session_key": "d55043749015150b2eff",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "2802fd763edb47215f33"
+    ]
+  },
+  {
+    "session_key": "b1dfd2dc1976d525c26a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0c1b3d5394f0271c47e9"
+    ]
+  },
+  {
+    "session_key": "c03dc0722538a9bfdc24",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c0833f9393323930e57a"
+    ]
+  },
+  {
+    "session_key": "65374911b52c3b66ee15",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3056f90fcef84e4d6f78"
+    ]
+  },
+  {
+    "session_key": "d16abd76855d4023ec89",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e839a1aab47952911616"
+    ]
+  },
+  {
+    "session_key": "af28f786acadb07bb776",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "6c3e3504762c7d6f77d0"
+    ]
+  },
+  {
+    "session_key": "560b67849f2d67ffd811",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1887e98b6ac10d02d21b"
+    ]
+  },
+  {
+    "session_key": "abce7e76c1e45ed5a965",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "aeaeb37b052a57513e45"
+    ]
+  },
+  {
+    "session_key": "48f5eaaa76016b6f921b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "df5602705b502849a9ca"
+    ]
+  },
+  {
+    "session_key": "0af2f7081ecd71ff81a3",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "dcf274bafa62648d1e5d"
+    ]
+  },
+  {
+    "session_key": "c3ad1bfe9bddb4f38f65",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "aa73719a0a629790a700"
+    ]
+  },
+  {
+    "session_key": "5d994a9b59f9a63b21c5",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "578e3e99ee69e752b4f2"
+    ]
+  },
+  {
+    "session_key": "86614de78c3388a11480",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "53d48455c9300d008cbb"
+    ]
+  },
+  {
+    "session_key": "4e4e9a20db661b349f5b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9b353cb29496e4823be0"
+    ]
+  },
+  {
+    "session_key": "fa33469254800e17cb8f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "4518e8a08afdf6ca9592"
+    ]
+  },
+  {
+    "session_key": "c1234e7e30a52595c71f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "4af7318972af99699239"
+    ]
+  },
+  {
+    "session_key": "b66c4289638036de2d3b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d15a1759e95b881f8c69"
+    ]
+  },
+  {
+    "session_key": "32081afae3ae1aa7c19f",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "8eec6f0049f6d6d3a939"
+    ]
+  },
+  {
+    "session_key": "d6ece65a22927ea3990c",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 8,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "95f31071e0f54f613f7a"
+    ]
+  },
+  {
+    "session_key": "9cd9c7aff236d49bed79",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0b87cf8855c8cc6ddc82"
+    ]
+  },
+  {
+    "session_key": "196db59b8406ef9ad7dc",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "1e216a6ad7bc9b3fc658"
+    ]
+  },
+  {
+    "session_key": "b906c0536d474063b0c2",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "955dea71af548cc9c762"
+    ]
+  },
+  {
+    "session_key": "5fcc395246b2d3e71988",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9ad8a3d64d3c16aaa06b"
+    ]
+  },
+  {
+    "session_key": "d03b86e3950554cf2097",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f040edee7fcbbb7afc09"
+    ]
+  },
+  {
+    "session_key": "72450fcc9ec99f46e4f4",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "f20d5e7d0a81d8e2a433"
+    ]
+  },
+  {
+    "session_key": "261a5b482255333eef56",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "57628d339d8dc7bedba9"
+    ]
+  },
+  {
+    "session_key": "a2477ba8c30b0396eef9",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5d976ca6cb95645bfc1e"
+    ]
+  },
+  {
+    "session_key": "3c15d7fd3957d9abb76e",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "abdc927ddaba2b8a7a12"
+    ]
+  },
+  {
+    "session_key": "e39c2e4e840fb40b70e8",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c944d68a3a1d8106fa86"
+    ]
+  },
+  {
+    "session_key": "9c0130ed497009402ffe",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "e366cfe6248ef33cace7"
+    ]
+  },
+  {
+    "session_key": "21f6970ae7e416ad5698",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7578db88fbf1e186b8f3"
+    ]
+  },
+  {
+    "session_key": "a9892d3c118c6ea715c7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d00a00acbe0064fd8665"
+    ]
+  },
+  {
+    "session_key": "c363864408c0b4c4d874",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5dc6f4a245f157800fb4"
+    ]
+  },
+  {
+    "session_key": "e088ff8238926776e61c",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "7305b58204a8b1b9e1e8"
+    ]
+  },
+  {
+    "session_key": "07e12e6a12e277a04c26",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "0c1aa64c950a99660ee3"
+    ]
+  },
+  {
+    "session_key": "2ed0751b0d740a2dfc92",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "5f20a319c79b6622e6a0"
+    ]
+  },
+  {
+    "session_key": "1e71ca1e2b051668be65",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c2bcd37428538713b459"
+    ]
+  },
+  {
+    "session_key": "7e5123f21b8d69b8f20a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ec5898ee9c961208a9bf"
+    ]
+  },
+  {
+    "session_key": "81c803e75fd9c24a5fab",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "19846267d90131addda0"
+    ]
+  },
+  {
+    "session_key": "14a96ae4f2e7336b2c17",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 9,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b329964e99edcddecb85"
+    ]
+  },
+  {
+    "session_key": "0a69f21644aa54724172",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "b3f6ea0146ab48121bab"
+    ]
+  },
+  {
+    "session_key": "dfea49a7840976614633",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "3ab283d60d5cc4b665bb"
+    ]
+  },
+  {
+    "session_key": "3dde23ecc25d948b822b",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "988e1d07a797dfa10dcb"
+    ]
+  },
+  {
+    "session_key": "6ae83545eda53514fafc",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d5e53896a0baf8b12e64"
+    ]
+  },
+  {
+    "session_key": "4a588fd92e7785a68957",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "167a68d046782318b771"
+    ]
+  },
+  {
+    "session_key": "c6d86af4004dde722d30",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "319ca10fab6161a9ed97"
+    ]
+  },
+  {
+    "session_key": "cc612e6f78b79d758655",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "414774ea47950a4be59e"
+    ]
+  },
+  {
+    "session_key": "c8fa75c843829596daa1",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "d9c13fd00d0d62115954"
+    ]
+  },
+  {
+    "session_key": "3698c9349efc7381a1a7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "2c8ba5dc40da0b9df6d2"
+    ]
+  },
+  {
+    "session_key": "eb55c5ce491dae83560c",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "8468d7fe18eab9874a7b"
+    ]
+  },
+  {
+    "session_key": "8e058a48fe50ec789d8a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c70f29347e63338ae3d6"
+    ]
+  },
+  {
+    "session_key": "c57e6f8f4adf3c8aa7fa",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c4d845250837708b2c05"
+    ]
+  },
+  {
+    "session_key": "b09b7bd481e8f657c711",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "9f56167ef4015f58c20a"
+    ]
+  },
+  {
+    "session_key": "94e52957d6302946992a",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "6c1974bce1982e7e653e"
+    ]
+  },
+  {
+    "session_key": "1971a7ea70c72f2d8f52",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "98fc438cfdc57022cad6"
+    ]
+  },
+  {
+    "session_key": "27b68d587d21abe6be09",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "723c57575c8ec50ac5cf"
+    ]
+  },
+  {
+    "session_key": "dae6f662f0c83fee33b8",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "20c204575ae1a81780a8"
+    ]
+  },
+  {
+    "session_key": "988f5e53e04ab53d9330",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "ebb6f7c413c420d5fd37"
+    ]
+  },
+  {
+    "session_key": "8a1bba81227796b289d7",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "bc5f61d931d31b84e19b"
+    ]
+  },
+  {
+    "session_key": "8e4d64f1b3f50fa9b965",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "c5a2b2e2e969c479d0e0"
+    ]
+  },
+  {
+    "session_key": "c2629da94eec94ea4a07",
+    "role": "evaluator",
+    "arm": "I",
+    "pattern": "baseline",
+    "replicate": 10,
+    "sequence": null,
+    "turns": 1,
+    "ordered_jobs": [
+      "614f42c01e07205f0ea1"
+    ]
+  },
+  {
+    "session_key": "0cb5754df9d34c602ed3",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "4f7cdc5fb1d3a1f286df",
+      "17a4db3a6cf94a170e46",
+      "ccf3515b1eb18e78b405",
+      "0d768bc2df4da46e81ef",
+      "84479e57b1668331800a",
+      "be2898087a6ef1758025",
+      "26b3b8c8d6563e14d977",
+      "26a6adf2eae32b2b40af",
+      "47a56ee44a32801431e2",
+      "c7c09575c8dcd3139881",
+      "1e455ba5f3d793da3a6c"
+    ]
+  },
+  {
+    "session_key": "99a254e1523bcd44a1dd",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "a0f252874f0b80fc8e46",
+      "00ea9371177387f61356",
+      "db75b32d239d01201484",
+      "c94b525fb7d411717b43",
+      "cbf9215b6f3b3ef52a08",
+      "bd4395df6d0085c2f879",
+      "99ef19b8362fa3b3f848",
+      "26b9de424517edb69f50",
+      "be098e8a402540071b9d",
+      "0b973ddff13cfaad04d8",
+      "edd72ac8594f6e27581b",
+      "cd956ca79e432dc41ba7",
+      "5b9c0e562b7d0acb06c4",
+      "6d8a15443c891b79a205",
+      "9e6bd03580084e73b26b",
+      "19aea099cd18b21954a7",
+      "24d679b407d27970aaf6",
+      "b603efba35b2751c447f",
+      "7b6f9969e674778c13b0",
+      "5e9f522469809961df67",
+      "22b77e07637ca0a207c1",
+      "4ed4cecd0ab2e1ae32de"
+    ]
+  },
+  {
+    "session_key": "c353967d00605662ca90",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4c41b0fd8c422cd3e056"
+    ]
+  },
+  {
+    "session_key": "f6e07167bb9c67611426",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "144b7e02b5bb87f36293"
+    ]
+  },
+  {
+    "session_key": "e651a513efd9cff89bc3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "26cf75a9fb242952ce02"
+    ]
+  },
+  {
+    "session_key": "0025fb7cbe728ec53d17",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dd62a183acfe96041e0f"
+    ]
+  },
+  {
+    "session_key": "737415743349dad0161b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2ff5ac9f9554547a138f"
+    ]
+  },
+  {
+    "session_key": "7b5f92819b4a50dec00c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3baf308653b542fc8657"
+    ]
+  },
+  {
+    "session_key": "b0c14c7993a3f0401fea",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3d0590ca357cd5f16248"
+    ]
+  },
+  {
+    "session_key": "980436aa3fd01c7b2a47",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c5b0847560dc8bbcc035"
+    ]
+  },
+  {
+    "session_key": "56293db7ea8179a4c9d5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3fa3fa5011c01565fb8a"
+    ]
+  },
+  {
+    "session_key": "5d9acdc6619c078a67c8",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ba8aba1a9e6ca7e6c66f"
+    ]
+  },
+  {
+    "session_key": "8da0200eecd79660776a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "16b1b51bc76d93880766"
+    ]
+  },
+  {
+    "session_key": "0cbe628341a10894ad26",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "ab7d2ef152691e40d644",
+      "26a69381fb8cf4ad773e",
+      "b21991eb7562beecbfea",
+      "acd84b735a0c27ec4ded",
+      "c0b09cdca958e2b266c6",
+      "0725cc321ace92a1b186",
+      "f5233ae8de013cd72054",
+      "30de45b1bb4efb79b231",
+      "2bcefba804d9bfaed5bf",
+      "6ed7d338fa63382bcbcf",
+      "88ca75116632a564028c"
+    ]
+  },
+  {
+    "session_key": "8c15da7865b3568ed233",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "030adab8c4725cb23b48",
+      "68d15d80b947743067ad",
+      "e86519f1b89492c7dc66",
+      "b4ba0725015ca1011923",
+      "b3c337b92deb969ff5d5",
+      "c7df379c8b4194670aa3",
+      "45717b6fca143e05bd14",
+      "f484fd3111f7a59a7dcb",
+      "e8d8031fed8cb8ccf13c",
+      "ec7948bb67963828723f",
+      "638a43b3dd74698ce990",
+      "b7f5f3dd9f4a85646275",
+      "4712b301ce81ad7576d8",
+      "9960df3122154718e998",
+      "abdc701a6d405e2b24e1",
+      "82b4bdb12db151896ad3",
+      "f2f3bd8e512e2b3d4e7d",
+      "3bb9ddfdefa921177a6b",
+      "9db8cb14eb4eccc193ca",
+      "2d618720479febf88ef4",
+      "7b8183b3e92c6bf8cb47",
+      "11cbe39b8681a87379ab"
+    ]
+  },
+  {
+    "session_key": "4fd984ccae86991f6fa4",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "923ec1cc256ab1a5e2f4"
+    ]
+  },
+  {
+    "session_key": "a160e804ae0166123b01",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "749688e4b80f8c8c6dd5"
+    ]
+  },
+  {
+    "session_key": "aa2ae9fca2d352bd7364",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "58ab83c342268e93abc5"
+    ]
+  },
+  {
+    "session_key": "22b82c2c19be8e8586b1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8d7f54d8c7a63db8706f"
+    ]
+  },
+  {
+    "session_key": "6712eaedd4f8bda822d0",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "333e420d5618e74e43e3"
+    ]
+  },
+  {
+    "session_key": "41b1c80ee26a4c17dc0c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6f96cd2a9562f7bd9a10"
+    ]
+  },
+  {
+    "session_key": "1739f7296627e40655a5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8a2ea030c8ac3eab5d8d"
+    ]
+  },
+  {
+    "session_key": "1071c95f13354218c2e8",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dd202032e0d4f78b4887"
+    ]
+  },
+  {
+    "session_key": "5866f58765ca3ebb590e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c455ca09903d409c1785"
+    ]
+  },
+  {
+    "session_key": "cbd672c087c277c308d6",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "484edd5a821205d13c63"
+    ]
+  },
+  {
+    "session_key": "68203c91def4a6960c38",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 1,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5548d2cdffe04180b9ea"
+    ]
+  },
+  {
+    "session_key": "5f1b1d49f2bdea593665",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "0219221cf27a7f932df0",
+      "feec19006a452e965d60",
+      "f1f891bb8d869636243f",
+      "3895f7433b7b3156f37d",
+      "af217f67cda844657e9e",
+      "1c7c790122867f8f2f43",
+      "b64a371ff02ff3f6f934",
+      "f46fd13f33f96919d4fc",
+      "34dd966ee3c142fb88dd",
+      "696bed6d97ed0ab67d17",
+      "2f4bac82fe3b87871a33"
+    ]
+  },
+  {
+    "session_key": "200cde0609e16f065d3d",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "3582f34ae9fdd06be553",
+      "4c594504185b78055fdd",
+      "1ec1f2f6fdfa19522d10",
+      "ad179f7b5f7d515c70d3",
+      "fa71976f8d37bc4d7ff9",
+      "929d65476bf580f035eb",
+      "8ef4c62f98371d4958b8",
+      "bc52774258f3541f6050",
+      "c59661004a51e67572d2",
+      "ef00e6bc09c4042547b8",
+      "597a4e2c5bc936fed497",
+      "e24614e35ef8eb12fe18",
+      "bd65745ba5089c9f8ffc",
+      "1edc01ad008a68a0be48",
+      "24857b586f5a09c27c26",
+      "df6979ca75975bac6acd",
+      "fead5914f40b603db53d",
+      "b01dd5c4affcf2ca9640",
+      "99dda41256ed8475a62c",
+      "ae363155a34da7d465e8",
+      "1b2ca87eb23294807186",
+      "9f429b18a7c2fb3d78ec"
+    ]
+  },
+  {
+    "session_key": "fce437d111861021340c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ff1910495f12c1552ac8"
+    ]
+  },
+  {
+    "session_key": "db631d2df1d595d2af22",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c218a5f384885543bfeb"
+    ]
+  },
+  {
+    "session_key": "e1212416dbaca714f5d5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e47357187b8d80504be0"
+    ]
+  },
+  {
+    "session_key": "cc754e2eb0e9ab16a976",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5ec7134728777d088cbd"
+    ]
+  },
+  {
+    "session_key": "d26c39851b2dd1670f69",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d39dbf368b9f202aa6f4"
+    ]
+  },
+  {
+    "session_key": "99bf0f9c87ba4419de45",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "f21b4b92a8bb74a2639a"
+    ]
+  },
+  {
+    "session_key": "b7e002033b1102e75743",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1879475dbd89b2202b90"
+    ]
+  },
+  {
+    "session_key": "a28e023dcc8c189e2e02",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8ca906f8fa3d23269ac4"
+    ]
+  },
+  {
+    "session_key": "90e80a897411e3ed3dfe",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "f31d42d7a72b43b009ce"
+    ]
+  },
+  {
+    "session_key": "d69a2df35e4300fb1e61",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "00d0e903714ac54e2441"
+    ]
+  },
+  {
+    "session_key": "2c70647e9dcd7eb858df",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2d4e0c507174a13df673"
+    ]
+  },
+  {
+    "session_key": "e283159e041aa0a31f48",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "f3499784b7cd5628a190",
+      "b76dabc614b2cd3e423c",
+      "8f72c931c64d9ab5e7bb",
+      "6b90a83398f66f8c3934",
+      "40cb4cf557842a0b84e6",
+      "3a2443ba5db302c15276",
+      "4fc3e47b8c465d18942d",
+      "3b400357e9434c1ebf99",
+      "6dd98a68c54dbdbabc97",
+      "18a9471c67dff0357cd8",
+      "8fd85f03c896f1a3a6aa"
+    ]
+  },
+  {
+    "session_key": "a4f5c1aefc4792afaead",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "80679ce0c0518331691f",
+      "747499b310f8702ecf11",
+      "c9afce34138883954eab",
+      "e632c1cf79a37bceb359",
+      "50542b8f166279ce88a0",
+      "7055d48762d5332e91bf",
+      "f328fe1bb50fcad6ef5b",
+      "197920e57c4df35619a3",
+      "03bf1d27fc51a909c69f",
+      "4bafc024ce05fdd7f47a",
+      "b7b59dfa4f7f15282f5a",
+      "96341f4a5264301047f3",
+      "244c77022345f0e22fae",
+      "590b17830470a3566eb9",
+      "ebf1f6f32bb70a30becc",
+      "2cc6b2ab09ee07e4bdfb",
+      "d17f9d9a2cd3405c28c1",
+      "1b7cc1c9e1b75a8192e6",
+      "f5c4592e2d8ad7ba368c",
+      "40529613da1838b6b58c",
+      "c0711bf9fc6a6b3fc3c5",
+      "d16868942560bf635d4a"
+    ]
+  },
+  {
+    "session_key": "e84e7c3f5ff2be306e03",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2dc912bdc2b9a6446e5f"
+    ]
+  },
+  {
+    "session_key": "330722b367c041181aa4",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "a150de6a05d91fd82abe"
+    ]
+  },
+  {
+    "session_key": "ea79be7c3c1f66383027",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1d02001d1050f2fa6f10"
+    ]
+  },
+  {
+    "session_key": "b808fa6631266ccb5004",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "f5ec4b04319ed6640c21"
+    ]
+  },
+  {
+    "session_key": "5644388e681e393394de",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5118f4fd4042e6cb6672"
+    ]
+  },
+  {
+    "session_key": "8ad33e4ee09105c3edd3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1a52447de8b32e9b7ccf"
+    ]
+  },
+  {
+    "session_key": "df89caa769a4bebb812d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b3cfd106212c3dbb2171"
+    ]
+  },
+  {
+    "session_key": "94f37cfc9d659307abb5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "286841da8f6b5a9149af"
+    ]
+  },
+  {
+    "session_key": "5e4468a4acd760596b0f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e7f101c0533d3ba6c1b1"
+    ]
+  },
+  {
+    "session_key": "8bc896441930a3e7417f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "99f54ba0b0d68e537e4e"
+    ]
+  },
+  {
+    "session_key": "6577335630463ac9f9be",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 2,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4148302e42d1940a0864"
+    ]
+  },
+  {
+    "session_key": "a1767728ee18268bc4ac",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "f45a7a017768be619722",
+      "a631741bf076867a4f34",
+      "81834d67aadf526d3f2b",
+      "21625be4a5d5af5bc4f9",
+      "3b4ff879222eae4176cd",
+      "34ba355cdd228e5394ea",
+      "d198480249172367256d",
+      "0ab54939c9a139933754",
+      "4c3328c9e328d95747d1",
+      "867b427d15875964d7bc",
+      "5db76fc29b00ef687e15"
+    ]
+  },
+  {
+    "session_key": "0e6c0f425251e1dd33c5",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "c757b8cc33f00df98c46",
+      "dea6fc22f59469422ada",
+      "3cac1bc237926a90540c",
+      "2a05e6662d61e69f17ab",
+      "647b2004bc5f1278ef64",
+      "678363c38db9a77efc89",
+      "e5b8dbe62a4c00d614dd",
+      "38e552ca9c628d7eda8e",
+      "60a88bd4bc8e87d81716",
+      "c9e2a19a7499ee592024",
+      "02b92954fa7db8e6d9cb",
+      "46c786f1bc5ce7b30b23",
+      "8a705286dee5e70bd7f8",
+      "efcc861c6857df27f81b",
+      "67b696c62ce69044703c",
+      "e45e98ece03bd131f599",
+      "81ad20e5a30cfc088c57",
+      "117aee1ff02ba037e122",
+      "9ea990268d1a0c8a325d",
+      "9d1d98ce32e9704edaec",
+      "964307d71821865f0e8a",
+      "38cf8af1b31595dbfa96"
+    ]
+  },
+  {
+    "session_key": "f6c8287f25363f1a86e7",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9f58cb178798c4f7a6e5"
+    ]
+  },
+  {
+    "session_key": "f97c88fcc521326a0726",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "af847489dd76f8eb8ec3"
+    ]
+  },
+  {
+    "session_key": "8bd1c5881e3182a1f6b1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b190bc0283837bf96327"
+    ]
+  },
+  {
+    "session_key": "543c246d8992dbf46a90",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e30a669e3e7a393dcc1e"
+    ]
+  },
+  {
+    "session_key": "14aeb36021a0cf101def",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ca031b8751225a1c7602"
+    ]
+  },
+  {
+    "session_key": "9284f0de0a6c192f812c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "308f16483cf5f36c3ff3"
+    ]
+  },
+  {
+    "session_key": "0b0275c2ffbecb60578e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7aeba3453455811e0528"
+    ]
+  },
+  {
+    "session_key": "71afab817b212816282c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "05b69c27580e24898bad"
+    ]
+  },
+  {
+    "session_key": "cafaa4359ec5a7abc601",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "261cff6a989d4ab99611"
+    ]
+  },
+  {
+    "session_key": "86a757f392a5278724cc",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d11b866bcd98ce0e8ccc"
+    ]
+  },
+  {
+    "session_key": "8a150deb01f970dc6412",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "a51b7b66d7253ec9cdef"
+    ]
+  },
+  {
+    "session_key": "41edef6c9bd07249dac8",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "501b957a006bb8c9d02f",
+      "11539b7803be35a46802",
+      "7c19606b7154e97ba098",
+      "45b28a8cdd40d26fc5f5",
+      "a286a67a8f03e535737a",
+      "f9da10cdf98c403ad343",
+      "c6b9f166b6f1ea36851a",
+      "70a56aaf29e8477b934e",
+      "b7edee49f50e72ba9752",
+      "84500190fdba002bea0c",
+      "d9fdefe29080c24415f6"
+    ]
+  },
+  {
+    "session_key": "49f872b842e2153937f0",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "aee4efeec588ab7b7a67",
+      "e48e4d5d5258fdc9fca4",
+      "8149aafafb0e34c57eca",
+      "c7d155419c016a42e5a7",
+      "fefb5960b6c364c3fda7",
+      "205522afa58fcefd0e20",
+      "ef436c6743fa12146e6d",
+      "830675dc2fd0b84e1d2b",
+      "9bcf44ba882339310f12",
+      "d28eda7db5aa2923904e",
+      "2396f7f47f5a462742fd",
+      "fdfcbe86ab7ec964c485",
+      "3ee94e10041ae7946ba2",
+      "72bb99ade6915cc7d5de",
+      "140c955227994c12d099",
+      "3df50d8b1a4729b3597d",
+      "5edc61005df09d6ee9cb",
+      "0bd05ba0b2c0d1b4b633",
+      "8cb4c4ee25868a79beec",
+      "ebf6e02588c031e470f2",
+      "4c5d1ca8d7f11edd8ac8",
+      "21d9eb21fb3ceeb7e393"
+    ]
+  },
+  {
+    "session_key": "727923fb2f1699929e3d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8916989c1bb8e75abfc8"
+    ]
+  },
+  {
+    "session_key": "4e47d3e7e7aaeeb45d61",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4d2af08f6c45c95fc1ac"
+    ]
+  },
+  {
+    "session_key": "9b9b37077f2b42e5b4ab",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "826eba6c356318f5da9d"
+    ]
+  },
+  {
+    "session_key": "fd6ccd94364c18d8165f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dccdc1624dc77b8af649"
+    ]
+  },
+  {
+    "session_key": "fa1a75ce75dd2e5e68dd",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8480e84e12e4816541b0"
+    ]
+  },
+  {
+    "session_key": "e14338217590bf4b0773",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "144f100e538f89882845"
+    ]
+  },
+  {
+    "session_key": "ae96d7f0625b221376bd",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e902fa89fd1aa24c0a2f"
+    ]
+  },
+  {
+    "session_key": "889a557741540b7bfc2a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6ac5502a44331d21a076"
+    ]
+  },
+  {
+    "session_key": "886696b4eb7cfa6bec13",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3304a1378cac49c15bdc"
+    ]
+  },
+  {
+    "session_key": "36165cfa3b66876706b7",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "875639586a37f7ad24f2"
+    ]
+  },
+  {
+    "session_key": "51d5dacb920e6637fedc",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 3,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0584fe21a60c423c1ffb"
+    ]
+  },
+  {
+    "session_key": "929a3991c852bb92b0ff",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "a81064cbbf05eff13d36",
+      "832ee771cfb267fd36bf",
+      "c1d607026cf0898650ed",
+      "35654ac8f0ec9710f01b",
+      "525e7c6f684cf1177440",
+      "f20c562dd1fc6f8c5336",
+      "ec22e50ca0a666be646c",
+      "e4f0a08b7d773d0e8d97",
+      "ecb66a799dc804370698",
+      "03b5bc5e686d01f0a321",
+      "6a26350945e6ba928efd"
+    ]
+  },
+  {
+    "session_key": "9f7b805954095fb9b024",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "c75d40a12176e28faff8",
+      "ca3f4d533c18ef3a1a10",
+      "b474d353e50e9e68c2f5",
+      "6d8e6a043d620852b150",
+      "a8505c1ebdb0ef0b92dc",
+      "a442ff63fdf6eef33a3b",
+      "20e4843fad837061f925",
+      "11abbcc4bdf3ccdf0982",
+      "d1a148eaa6556c62411d",
+      "0ac8979cad7588bc2c57",
+      "919a6a6beaa0ad2bf096",
+      "7d2950ac5b1610f76b88",
+      "7a0c2266b07d767dea78",
+      "e8fbccfc074c7f9e5b1a",
+      "3f3a3a531c8f97e31ca2",
+      "e6c0136a187326f01ac7",
+      "6d8e478663ee65a45259",
+      "593737c88cc44939fbdd",
+      "3e2c10af62882e99ac29",
+      "8c9bb202f73affb5f0ef",
+      "5025fe87b24af9c297d2",
+      "7897fcf89ed9f894299d"
+    ]
+  },
+  {
+    "session_key": "710244ecbe59b6c2151c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8fce78b0c6187f064d0b"
+    ]
+  },
+  {
+    "session_key": "72a0af411ec8e151cdad",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0d135740f19d43795362"
+    ]
+  },
+  {
+    "session_key": "890f89dc2a2e23e5f59e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b658392322cd5682854d"
+    ]
+  },
+  {
+    "session_key": "30ea9acb5cd38cb96efa",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "71f21f38ce2404485dfd"
+    ]
+  },
+  {
+    "session_key": "296e8ed47b04bc08af51",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "15ffb1782485914b64a3"
+    ]
+  },
+  {
+    "session_key": "c485d4b81369e66862c5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "34c78e4e4618bc415aec"
+    ]
+  },
+  {
+    "session_key": "c0c4d932776427a73dd0",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7df3a768f1fa43d3efdf"
+    ]
+  },
+  {
+    "session_key": "bfb1e2ddc77e8496ca12",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "60e0286a53b14c7abcd5"
+    ]
+  },
+  {
+    "session_key": "e7c0d664ef7ce25b0cc5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4e6cd70b05a4b7f05d3f"
+    ]
+  },
+  {
+    "session_key": "bbf9b98b993e40958e50",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6d5519d5acbbff72a4a3"
+    ]
+  },
+  {
+    "session_key": "a41c597bfc3f52edbb45",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b096e1d2ce4422b21908"
+    ]
+  },
+  {
+    "session_key": "23b741bc630decd99672",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "fbb22a801eeb52ae370c",
+      "95b187f9245a49da80be",
+      "e08d0ce0afbbfb74123a",
+      "3fed29d1d32c58092916",
+      "8afdc89176ed405f0712",
+      "ec2c6e9c29de4b0cb528",
+      "0e2989b14512f6028fd7",
+      "e5d16d5b7d8e4007a9d5",
+      "7981b7670741ef74cf82",
+      "4aa67efc29f6bf3b5cad",
+      "adc366728e6d81ccdeea"
+    ]
+  },
+  {
+    "session_key": "ac104260995983d72bd0",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "1681192bb81d2654ca99",
+      "321730b76222e48a1162",
+      "b6062dc80734b3d20c14",
+      "27f0658d8318b9a4359a",
+      "be511095cf86eadb5cf2",
+      "5719ef41ac68b5094e3b",
+      "066c89ba0cbada7f0026",
+      "2bf8d271fb33bd72eec3",
+      "d06945dac4f585826288",
+      "2f02ecfef8e27b17bbb6",
+      "0e01939582dd11485d27",
+      "f6383ead0920bd3bf6e2",
+      "def3c9810c1f7111cf73",
+      "d310b7f2198b799be2a2",
+      "eb2eec5391074452fbbf",
+      "a3841a408932a5d91bc8",
+      "94cfa8495db5e8be4714",
+      "d50f990be09ba3ff3218",
+      "7fa039665cc5146efb35",
+      "41128d828635507d8cfc",
+      "50a7dd14863c722fd55f",
+      "dde1271dfa88d113fd0a"
+    ]
+  },
+  {
+    "session_key": "4e0ef606323093acce7a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9e48a4946c3922d44bfd"
+    ]
+  },
+  {
+    "session_key": "b8b2ee5fb87a65945b63",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "359e9298796f3120953c"
+    ]
+  },
+  {
+    "session_key": "834cc792777102516483",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ca9197fbb69d099fe79a"
+    ]
+  },
+  {
+    "session_key": "db4aedd6058f4fd65747",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "846c2beba5754d661b4b"
+    ]
+  },
+  {
+    "session_key": "4de9d0f64ddf1547612c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e72948f4b2b93e6e18b7"
+    ]
+  },
+  {
+    "session_key": "cef07042d6f95804f60c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "afd0ae31884a6133de62"
+    ]
+  },
+  {
+    "session_key": "f86db9f28de7f3a5dd93",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "484d24a23f29094303f8"
+    ]
+  },
+  {
+    "session_key": "3998ab4f60ac8d0cc476",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d7f306c553e5c1b94720"
+    ]
+  },
+  {
+    "session_key": "365fbd3cb39d4f5e22f5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "678f835e63f3559b8edc"
+    ]
+  },
+  {
+    "session_key": "77b58c1932e0b179d837",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "adb2214ee71fbab943d6"
+    ]
+  },
+  {
+    "session_key": "365dec4d03a618d7d40f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 4,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ed51726c513eebc994b0"
+    ]
+  },
+  {
+    "session_key": "a4b700994010503900c7",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "5a7b1d7a2468c2a8544c",
+      "b43f7953840ddcf34ff8",
+      "5a5e86711a6d37f54da3",
+      "6a5fde438e9008eed189",
+      "c306add91552a1f3ac37",
+      "0fb7c421a30b9fdf20e1",
+      "dbb2dd43eed206d68aaf",
+      "b2e0be9b4bcc0c191495",
+      "dd900b584fa61d184651",
+      "c99380d9d73ddccaa0f2",
+      "028cbefcb555513f6891"
+    ]
+  },
+  {
+    "session_key": "74bdd6d7c6c92b21df64",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "442cbe2f61954e64eb94",
+      "01e0fb0de7eaf2dbf8ba",
+      "f776c343fc7690fbe88a",
+      "50a0ef94597019dfd37e",
+      "a9e169df6f5168cf452e",
+      "5cc9ef67326c8c4c5483",
+      "786666e97f9b9edfc429",
+      "4c5661f1dd1bd0e8dd11",
+      "243abd370c792d9906e8",
+      "bb763690e807717630e5",
+      "cc82be537da78b7b8d6d",
+      "5fbe2c945b833ad44c68",
+      "9670efc1c03180bac40f",
+      "f7418f128e05b881bea9",
+      "64ffea858cf450415208",
+      "37d97878da390d7ec855",
+      "e354bd2c98361e5d462a",
+      "aa6b7ef73e0c8052f2e5",
+      "820a82b4067566727b5c",
+      "0aea86de9c2b86d3f60e",
+      "8324471cc99b6dd1bb21",
+      "f877b13203fee42e71e4"
+    ]
+  },
+  {
+    "session_key": "a508e5608e09cf0d700b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1ddea93833a21d6f025b"
+    ]
+  },
+  {
+    "session_key": "d8007f95110e9357ef33",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e8b18cef02ce1f4ab680"
+    ]
+  },
+  {
+    "session_key": "d6126ad20f3b0dfbc4dc",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "66ed9232473cb1dee25f"
+    ]
+  },
+  {
+    "session_key": "5e3f5d266c23896c5a23",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "424be9a50319084dae5e"
+    ]
+  },
+  {
+    "session_key": "0c97a112cb3770e2659f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6f0d16d70821bc14ccf1"
+    ]
+  },
+  {
+    "session_key": "6866c8b4ea63dfa726c3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "40b93b042523e18b4cdc"
+    ]
+  },
+  {
+    "session_key": "c0052b7c51707f522509",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "58e755c672a83bba1777"
+    ]
+  },
+  {
+    "session_key": "30cb60bd01ff48834471",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d72acd249206c469491c"
+    ]
+  },
+  {
+    "session_key": "83fcf7e06ca2e36bd584",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b4bef38d3e05a49ac9c6"
+    ]
+  },
+  {
+    "session_key": "16d3fc9974cd963c5b79",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "11efc25de6fb621d0648"
+    ]
+  },
+  {
+    "session_key": "d3f97198aabce5acd854",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "130a89729f9d3df2bfc4"
+    ]
+  },
+  {
+    "session_key": "a24e4efa522f66c793f2",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "d41802b275fe085674cd",
+      "2f47bdec456282bd672e",
+      "ffa435a7ffacab697d3e",
+      "d8e7e2f7cd6bb741effe",
+      "60409e89f7ccf77dfaea",
+      "4f27dbd1f945cf0bf509",
+      "b1d954a9d2f493fcee1b",
+      "1d5c1776398f9516e882",
+      "e0bd0d5b37c1aeaebf67",
+      "f3140540675f3fa5e838",
+      "aedbf82a91d93ff2b19f"
+    ]
+  },
+  {
+    "session_key": "632cd9241b294e82f871",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "cc8df2550d74bb09bed4",
+      "0a4541d3d78e80192ef6",
+      "9503bc138bc1a538db7b",
+      "1a6b5d712c770dfe16bf",
+      "b2a8b250de9a36ff56a6",
+      "f45215abf76186fad3a2",
+      "63daf380f0afb2adfbc6",
+      "84c70f5f0ca74214c542",
+      "a3cdf4a2ceee393e75f3",
+      "bcba52613a0d60684bc3",
+      "8ae01885564b503cf238",
+      "ad135d2d4b38fe3199ce",
+      "cf62387ac8f0dc593460",
+      "eabb8351b719321b2316",
+      "b88ae857d57958995582",
+      "c7f40c28c4bea5743cf8",
+      "28cfe647b5d04ac86f9b",
+      "60f50daa54f632e5e7e0",
+      "eb4f9e765adc8afdab79",
+      "e31e2868b8bd07dbf68a",
+      "43edb8f35c4c30a59539",
+      "3d1afeeac3786e9bad91"
+    ]
+  },
+  {
+    "session_key": "bedc3fed7892ff92f580",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8c1b729a2a67a26a1706"
+    ]
+  },
+  {
+    "session_key": "405f4865ce3fbba24902",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "db269c058fb3042871a7"
+    ]
+  },
+  {
+    "session_key": "61ac7c9438b68934bc32",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dd5530891e6909a7b031"
+    ]
+  },
+  {
+    "session_key": "1bc6dc00147400007eaf",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "47364205aca79a38899c"
+    ]
+  },
+  {
+    "session_key": "d1a7a14cc50ec5a45866",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "12d85827de5ad22a465a"
+    ]
+  },
+  {
+    "session_key": "e694538a21b81b05ed41",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9dc09f40a872b415bba3"
+    ]
+  },
+  {
+    "session_key": "c6f2ad16ead88a9e216c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "f1810c5ddd752aeb9af5"
+    ]
+  },
+  {
+    "session_key": "93564d3fc9bc67f69df9",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6bcba7cd529f8398c9f1"
+    ]
+  },
+  {
+    "session_key": "e67dd05cfc97cdf87ee3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5c30d3af9535c276dfeb"
+    ]
+  },
+  {
+    "session_key": "8079f00d0e40c5e8184b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "51ac6f19f04cc7de1b17"
+    ]
+  },
+  {
+    "session_key": "42bcffead4e1e1616ef4",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 5,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "69e633db6d42a7917a6c"
+    ]
+  },
+  {
+    "session_key": "b532d9c0b29035fe0dee",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "eb9f85d47b955aef5914",
+      "5e3c1b15deb21efe0f18",
+      "f219914eb7ec8f702745",
+      "7a5c4892d8eb9665dcac",
+      "62ca7af0daf431a83b5f",
+      "1ae51e23f010105b3f4d",
+      "8947e8987a85bc842104",
+      "d429026739ab6201ca89",
+      "08752fb5cdfc7d79e090",
+      "9854c2c7227d159afb10",
+      "5a0a50c049178872f2bd"
+    ]
+  },
+  {
+    "session_key": "c7dd1763a6843848f4fb",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "e38c9d2603923a212846",
+      "d3a1a567d62d7f3d3e19",
+      "fd744a1da573c5297034",
+      "b70b8b84362eea53d2c3",
+      "949c15c6ef83beb20b4d",
+      "3ceedf271ac9d0b2eb95",
+      "570f30c14994867ee835",
+      "9f39c976542a62e57cab",
+      "d99cd1377beeb1351a3a",
+      "4de70b0a298e04ffcc73",
+      "c313d54c63b22b9d920d",
+      "ae7cbce0b21daf294f64",
+      "5e1172160b1dd619a097",
+      "ce3893e2fa8bc7e0484e",
+      "9f6676bf8ec3b0793adf",
+      "0b899259d4cc3669f931",
+      "d30e98f6ff97a78a53b7",
+      "11f2bf2ef0d17b296044",
+      "7a17d4a3b873f6334d19",
+      "881bf845afcd05972c89",
+      "3893b9d3ccf55c7a8492",
+      "0fedac06c86aabab0753"
+    ]
+  },
+  {
+    "session_key": "08680dee947583cc1296",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c50d4dd50932ca04bb8f"
+    ]
+  },
+  {
+    "session_key": "2b7296b96143f5cea6f0",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7121640af138fbb4dd55"
+    ]
+  },
+  {
+    "session_key": "e3187b5162f464137e95",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d0efab8d06fa174990b5"
+    ]
+  },
+  {
+    "session_key": "b9136de434bcf5b09ef3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ba25d088fe560b698d88"
+    ]
+  },
+  {
+    "session_key": "9346f95fca8a015bcaab",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "44ac27baaf7cafd86ddb"
+    ]
+  },
+  {
+    "session_key": "ab3dfaee5fefc53f1262",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2b6d7f606313acbbc599"
+    ]
+  },
+  {
+    "session_key": "f764652764fa30840185",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "40dc6357507265d899a2"
+    ]
+  },
+  {
+    "session_key": "f93cc6a31c70dcf79371",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "90c0f60c080173df25ef"
+    ]
+  },
+  {
+    "session_key": "ae069e95cecf4d65b9bd",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "57bcecd8c8f3fb10cad3"
+    ]
+  },
+  {
+    "session_key": "5dd3e98f6423ef0ef0ae",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d5b0d75b9c868a94fab0"
+    ]
+  },
+  {
+    "session_key": "aa50a6c10dfd6c746fd5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "056de86f333f51ee3b85"
+    ]
+  },
+  {
+    "session_key": "bfa6cddc69a4bb64346d",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "1b5ff1e6787551db8a04",
+      "52fe30ddae221b3ddc7a",
+      "351e835b4e6cd6afb5cd",
+      "bc29251f0d4b8acac9b1",
+      "c6a726f0ab29544be1f4",
+      "808a5d5d641a20c73be0",
+      "39b7de4bb3e5b6753628",
+      "a38d53ece717b5a2b3aa",
+      "ddd18b5274cddb813460",
+      "a1da44f9eaf3e78a2ab0",
+      "76cf87757c0116a4d1b0"
+    ]
+  },
+  {
+    "session_key": "219ec7b47140aea7e5f6",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "9625b15efbdc57f36891",
+      "eab307db38ba3496e914",
+      "dd4c5d86bc9794667469",
+      "1d2654d490134f0fe84d",
+      "5ee69a693f0f4dc69612",
+      "3e690992d0debf072fb3",
+      "266a7b92063828438137",
+      "8731285f3c512d7d93b4",
+      "7f7e5089f082fa54074f",
+      "900df531001eae062bc9",
+      "6ffdad64b7c9671d0682",
+      "d34945136071a39405c3",
+      "4dcb2d01a1bf09072e33",
+      "8701e763468e10980f50",
+      "1c1a41652c0802ad1051",
+      "1ce3375899ab17ea6106",
+      "7e5c0ae934a5beae4d28",
+      "63b830a29dcbdbdf25c8",
+      "fa8f841435fbeea618c6",
+      "aa20785fed8cec5e245e",
+      "dfdbe505e1ee55118ba3",
+      "d9edd0f05d053a66f53c"
+    ]
+  },
+  {
+    "session_key": "9c8dcae6edb03b291150",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "bdb3d4208999f027e261"
+    ]
+  },
+  {
+    "session_key": "6fa26e5e516c0ab68887",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d93f14118683fee1f333"
+    ]
+  },
+  {
+    "session_key": "2e98caa654bd02019ac1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "ec36abbbf731d068b26e"
+    ]
+  },
+  {
+    "session_key": "9e7fbb9bee291b0f1b9d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "aad531f4d735249fcb3f"
+    ]
+  },
+  {
+    "session_key": "f176a789a2e5f8662543",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9f103788851e5d2273da"
+    ]
+  },
+  {
+    "session_key": "54b644b7b56ed39a1d83",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9b8e59c50dbd25793ba4"
+    ]
+  },
+  {
+    "session_key": "7b2d161ea9c199d51ebe",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "899225b6ca4f487d261d"
+    ]
+  },
+  {
+    "session_key": "4b5243089a412bd594fe",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e7f669610ed79e2f3f65"
+    ]
+  },
+  {
+    "session_key": "27f7efefb63304459119",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "093f395597c1a213938a"
+    ]
+  },
+  {
+    "session_key": "6c34c8d323ae73f37741",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4e2b03d98a75aece24e8"
+    ]
+  },
+  {
+    "session_key": "8a2eb17f213526a7baa5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 6,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "27f473c122da7f13ea76"
+    ]
+  },
+  {
+    "session_key": "3f03151ed9ae75a92b89",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "247def43a540deebc52a",
+      "bec540171bbabb97d3e6",
+      "bc621c24869ff53dad6c",
+      "baf8b0e1a9227a623afd",
+      "d166e2efabf8f465e883",
+      "8e232bd5229ab34d6a6a",
+      "9490d22b83848561a35b",
+      "a7784a2a5be92856e59f",
+      "3f6f55b8e6dc5ac39983",
+      "9783ac3581086cffebc9",
+      "22cb0d5a1dae4a8794a5"
+    ]
+  },
+  {
+    "session_key": "41e7ab4d472ade08ac35",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "2f3ac3b9ba2cbb2db099",
+      "06e09c1a62887edbd59f",
+      "452093d8435c11ada9c2",
+      "9ab71b49ec0d3f6d6aac",
+      "171dd61eaac234b9d820",
+      "8ea03d4f37bb301b21ba",
+      "b91d3f1c3c6473af55a1",
+      "d0de0a2915bcad86f218",
+      "b14a64cf13ee9e5bfd94",
+      "c4658fa0b2ea6533e01d",
+      "f00b822ee907070a7226",
+      "95d70570964f283263ce",
+      "4c00a84b1aea4ef0c498",
+      "c46286a072f56b97a26d",
+      "71f9615ecd1a91395dc8",
+      "79346d34701be230be2c",
+      "d349256aa9c1ddcc8988",
+      "dea2af31d0fd070f1415",
+      "0e7979662d2dea130254",
+      "3cef367f815b290319d6",
+      "dab2f0e58cacc4ab5097",
+      "034fe772de9ddd3914e7"
+    ]
+  },
+  {
+    "session_key": "411452e5ac0fc8286be6",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "100815032c60f40750b8"
+    ]
+  },
+  {
+    "session_key": "35172a3819543993a966",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2a369a3711f02a52e979"
+    ]
+  },
+  {
+    "session_key": "c878dc1f5be0dc089f47",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7732179531a7fdae88c1"
+    ]
+  },
+  {
+    "session_key": "bfa3ef0fb53d824ce0d9",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "034a9d67e464dd60d923"
+    ]
+  },
+  {
+    "session_key": "3125740ead8afda55054",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "570c1aba2de34fd7a7ff"
+    ]
+  },
+  {
+    "session_key": "de9c39650115b4e8256d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b18c1529f6f2acf9a7a7"
+    ]
+  },
+  {
+    "session_key": "c4c8f65a07101335dc38",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "08ed937ee29f294d97da"
+    ]
+  },
+  {
+    "session_key": "5c227fa20b1fcbdbfc2f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2b62261794838c2ad5af"
+    ]
+  },
+  {
+    "session_key": "c160acc583e46220f071",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "18c04f15426c5549ae4b"
+    ]
+  },
+  {
+    "session_key": "eb9dac2198030393ba8e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8cac29af3a2d72af0fc6"
+    ]
+  },
+  {
+    "session_key": "b9f5fe18e30f54e6f07c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "a79692b77f8552fe8a41"
+    ]
+  },
+  {
+    "session_key": "d822f4ecd1ea67fbe442",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "5505a0869e1ad708a6ac",
+      "7d4c64f5b4367282d78f",
+      "bbb99b37adf78dc23fff",
+      "c0157db194e23197e416",
+      "a47458b4875069586866",
+      "0eaf0d968b437a7d1447",
+      "49c2b756d76317e46818",
+      "94101391cda635931930",
+      "3874cab9b55d25e6ffd8",
+      "5a9dd0c8aa86d0871ed0",
+      "5013cf7b9c9244e2bcfd"
+    ]
+  },
+  {
+    "session_key": "42707bd933a4ec937bb8",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "a220d226a8ff8875aca5",
+      "f1929a51db8595e0cd03",
+      "812b4167cbeb7ff7639d",
+      "7b2e293b54e01866cf27",
+      "213b91c96c4289c53ae3",
+      "bd5b62b91bb3dc6a084c",
+      "f32b775b39462d560abc",
+      "6d454775ce143603c15f",
+      "81c9623ea0a385d5a746",
+      "d399cb826b5844c6f527",
+      "373bdf4b82d1c39072d2",
+      "629a12bed5344d173c5c",
+      "a5b80ebb76cbb10fd02c",
+      "b67d6c9ce6f8e15e2679",
+      "d989401ad7361b2345dd",
+      "1185b2623180bd056b50",
+      "22522fcb3fcc3b92a474",
+      "20af829f58ee3d246113",
+      "f733291f806a0fa9f309",
+      "aae0d90eda8919c05e6a",
+      "3ff379550c378c20fef2",
+      "110a2a65563af5d54c2f"
+    ]
+  },
+  {
+    "session_key": "8ee4293bf1aa98717472",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dfb0bd3090e6dcdcff8f"
+    ]
+  },
+  {
+    "session_key": "aeee5729d66649d294c2",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5395f45b60d6c9d96ef1"
+    ]
+  },
+  {
+    "session_key": "8c0070b887e60cc8fd72",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "80edb2f99d8e0b723ee7"
+    ]
+  },
+  {
+    "session_key": "a2d3175013ba22ebca27",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5340c2bff8b41574ce08"
+    ]
+  },
+  {
+    "session_key": "3cf5c41c23c4bc8e13e1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "fd1a02fbf57cbb18e860"
+    ]
+  },
+  {
+    "session_key": "d87fd258fa5dd32509ba",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0820fd817d66cd99a53c"
+    ]
+  },
+  {
+    "session_key": "5484dbcc7dd9159abc14",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "78a16fe6e7c4c19306ed"
+    ]
+  },
+  {
+    "session_key": "7364dadbf78f07d3d07c",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "31c574bc2ffa8baccf97"
+    ]
+  },
+  {
+    "session_key": "f5d95192b9cd42c5dd11",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1b11eca59de7fd93c4ef"
+    ]
+  },
+  {
+    "session_key": "82bf65f83b171cd20dec",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7a0ed5b56c9568b6e447"
+    ]
+  },
+  {
+    "session_key": "2fa8b87a04e5db667e26",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 7,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3b8ac2b7cd5f1b6f6edc"
+    ]
+  },
+  {
+    "session_key": "58f7ed9eb05a4381d7cd",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "30b1ea54395ac0375bd3",
+      "0b3ff5e82530d3774e6d",
+      "916ed33acc20db1e7c7b",
+      "b02e37c90f54bc68c103",
+      "ec3809178d6ba853f871",
+      "fc9699d6160f8b4c3eb7",
+      "230e4d759cd5495244a8",
+      "1fff781feef4fc9685b0",
+      "3a5f2fccf2feaac7bc51",
+      "d0d74963d6dd724cf350",
+      "fde41c78293c18642c43"
+    ]
+  },
+  {
+    "session_key": "0b2698d2c396d2654b61",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "1695d8a5b526a40546a8",
+      "f1ad82adc78b58dc6dbb",
+      "95f5b6f881437633e007",
+      "8087c5183e70aa5522c2",
+      "8fd7bc4b2b99f4cda49b",
+      "f5e065559a79b1b7569a",
+      "ebf07c027e06edb91139",
+      "f0ffac6ef1f5d2e9bee6",
+      "7927d150c93d734c048b",
+      "9d5c9d4c181eea967359",
+      "bec69e13388a5fd01bbb",
+      "64e2422c638a74b91187",
+      "9127af03e097283921b0",
+      "3444769c39a96bbe4083",
+      "d52c8a780ac9dc4aaab8",
+      "24657371d0af6ce949b4",
+      "a85e19ecc43176893d01",
+      "7411167052f88e31f341",
+      "f69029814b97c515ad4c",
+      "73585f1086b725d08acd",
+      "1c2af1f73b48768fd40d",
+      "c24a8168b6cfcd3ce94d"
+    ]
+  },
+  {
+    "session_key": "99f1c1e531aa16d5affe",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0b04c9d378727355cc0a"
+    ]
+  },
+  {
+    "session_key": "86e7636a34ba4f4e04c2",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b9e4976e2c30770bc969"
+    ]
+  },
+  {
+    "session_key": "5dc629d80c9a746d7d9b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b204d6f9f4fe7cedaa87"
+    ]
+  },
+  {
+    "session_key": "87678d6e0629486f5689",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "503376641384e71504f0"
+    ]
+  },
+  {
+    "session_key": "24dfb57a6bbafedf87b0",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "be8e3946d211a6542151"
+    ]
+  },
+  {
+    "session_key": "91d08736b9cb8fd525c1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6b43e08183d6a9f84d50"
+    ]
+  },
+  {
+    "session_key": "4f54bc655a5955ab22ee",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9a7dac6a336396c55c29"
+    ]
+  },
+  {
+    "session_key": "dce31a285d153850139a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "54c03be9c45d28e8ee35"
+    ]
+  },
+  {
+    "session_key": "e4ecc3f5d3a4545d71d6",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "03d2ae6a79088b61870c"
+    ]
+  },
+  {
+    "session_key": "d7a8568962c86cdafb98",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8b2851ce64c63b07962c"
+    ]
+  },
+  {
+    "session_key": "591641b7f5c0d5d479e9",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8fd972a67e28ef7c7f3b"
+    ]
+  },
+  {
+    "session_key": "499889946a64eb12a3d1",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "4d78ef86a29c5d34e0c1",
+      "0e9c533b5697daf85988",
+      "7046f4bb30df2ce32b2e",
+      "6570469bfda2c5cf495b",
+      "eb50bb6005720cd4962e",
+      "c3e3abe3afc37ccc64b5",
+      "7c970817eaa1625fb87a",
+      "0b2759c85e1c7b1f5abc",
+      "a21a45945384b1b92e1f",
+      "73eb16f0686f060a3f7e",
+      "da70a0392dc51ff7cf8f"
+    ]
+  },
+  {
+    "session_key": "b4e930f4bfb1509e5f69",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "6492e62f95770e975782",
+      "399e821e62d7b9e3bddc",
+      "20849d2551756e5cc907",
+      "1a2ce0b616227ced51b4",
+      "1d8ba8c0d4884bdb6563",
+      "eda325025d582df6d385",
+      "89c073e022f3bd8b492b",
+      "f6006df5b4b01e6ff900",
+      "d139e1ee8292023a484d",
+      "93e3bcdf7fd07e7a28ef",
+      "52407d7aec9a8d16f491",
+      "1896cc73089fa0bbf7ae",
+      "afc3ee7d22331b160ad1",
+      "6040b4b96302761d1821",
+      "3d04898c76af6566a3c9",
+      "0c1ccd593fdc40b0506f",
+      "3258d7b38b4f29fc28d5",
+      "72e18bc0fa94d0140c6b",
+      "f8319b01a567c91a1163",
+      "da0b570c27b5e051833f",
+      "f7d08339af2c1b752aac",
+      "7e0790fb2d4b0b618b21"
+    ]
+  },
+  {
+    "session_key": "2e5fa3181566cac823fd",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9f381f15e6e8c27d92af"
+    ]
+  },
+  {
+    "session_key": "dd1eafb34a6c00f49c09",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "838434bbb41db6101cf6"
+    ]
+  },
+  {
+    "session_key": "8a0b84e5523d111b059f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "590ce2d4f78ed6f30391"
+    ]
+  },
+  {
+    "session_key": "aae53740be59ba23d7a3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "11a9c8c2b712363513e9"
+    ]
+  },
+  {
+    "session_key": "78346308b013d011d448",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "51973230e44d35510693"
+    ]
+  },
+  {
+    "session_key": "f436b2218987c27d0fb2",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c1bfcee1d5eb03f3e5fe"
+    ]
+  },
+  {
+    "session_key": "d0a1733f9ba24556b840",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e05be3de9dbc6ab0e7d9"
+    ]
+  },
+  {
+    "session_key": "3767431a44f18beaf6e3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c1a656f1b68132cc05e9"
+    ]
+  },
+  {
+    "session_key": "6fdd92ce502a77264a7e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "01a56b38ee742a0be413"
+    ]
+  },
+  {
+    "session_key": "8e0745c844f08d87dcab",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "13b8040a1c91c7d15ed4"
+    ]
+  },
+  {
+    "session_key": "510a097ea9cce3fc1f6a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 8,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "4a4ade48e14754e15742"
+    ]
+  },
+  {
+    "session_key": "fce42b8504a8835bb62e",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "3c0f67d9a9b6d7a793e2",
+      "ad4a83b1337489f61e6c",
+      "c56ba35614c0dd4cc1ba",
+      "984809309ce1e78c6534",
+      "206105aa7f7e262a0f73",
+      "e7636803ae662b2183a3",
+      "0b8b74fd8804e5b2d0e4",
+      "4e633549a6c944f7a9cb",
+      "75fd0ecbd494dff4071e",
+      "13e318b3501d6bde9af0",
+      "c5648e0a4e3a5207ca27"
+    ]
+  },
+  {
+    "session_key": "8b2ab970b920d0854ab7",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "917dea653692ac5d57a0",
+      "d5aa37a4b211b04e859c",
+      "5bbd460e75fcd3ec4392",
+      "477d40d50df505f60c54",
+      "e83a9f593c1391e3c918",
+      "e250b74fc92e6d294d00",
+      "0609827a82afece983b0",
+      "6a75f9862e619fc07e9a",
+      "49848af7040f0772d876",
+      "e01526a456dc9a1660aa",
+      "96a5512bedee76d83aa1",
+      "c5e1d02c17ec1786f69f",
+      "ad62d9ca61cd4f0f6828",
+      "da9e902ac2d49847c9b2",
+      "29bc55c8dde7aa68e0ff",
+      "afb57389c908a9dce2ef",
+      "3772ed1ec1fb92369607",
+      "6b1694c939f33af830f4",
+      "0e9b57fdf1137968e7b2",
+      "e1016ac37e201dc9acf5",
+      "d99ff06813d20622e634",
+      "8e8073b0ccae9984c216"
+    ]
+  },
+  {
+    "session_key": "9d0025f33d9f9dd9ec04",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "55c85258c56b4cf8b757"
+    ]
+  },
+  {
+    "session_key": "eb5092a6926225514eb9",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9f77ce5dc42d6dcd90c6"
+    ]
+  },
+  {
+    "session_key": "410f208d4474cafcc82b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "5db47c80e29649d800a0"
+    ]
+  },
+  {
+    "session_key": "7aaedea588a794c46454",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d09128612f034782176f"
+    ]
+  },
+  {
+    "session_key": "aaa7c894d9e900dccd09",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "41cd65300acea6a473b0"
+    ]
+  },
+  {
+    "session_key": "1e1e519a361b60d9cf0d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7b6e78794536ed9001a6"
+    ]
+  },
+  {
+    "session_key": "ce50688e885c19a19c3d",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "97da637489695aa7c49b"
+    ]
+  },
+  {
+    "session_key": "79847e91e586cd3a320b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b94a85fb2f9ab91687f7"
+    ]
+  },
+  {
+    "session_key": "bfdf4efc03f2f63e03ac",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "dc4a44061638f3c6e207"
+    ]
+  },
+  {
+    "session_key": "a8c962bdad330d915bc5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1c68a590af4d0f333be0"
+    ]
+  },
+  {
+    "session_key": "a898bbfde8a322b137ec",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "a68a18a32fdfe675bdf0"
+    ]
+  },
+  {
+    "session_key": "28ad3d8075e826156b3b",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "db9bbf7529d425c6da1a",
+      "9ef7bf99e5e3b535f9f4",
+      "03d28c1bf92a83612123",
+      "d522a4ece13ae496d5c5",
+      "2160a3312962b37b1384",
+      "d07a67b232ceb632a366",
+      "ad41fbe9adfe709a70e6",
+      "e76e32b6f252224fcbde",
+      "d136b9339a5feb9ceb49",
+      "22be9593bf5bacbe4159",
+      "e172335a0b1cf8bbd096"
+    ]
+  },
+  {
+    "session_key": "df49c2eca05d8954f945",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "dd4bc99bd90281d52274",
+      "b5f9349fcd72fbe99caf",
+      "081396420ef956a446a4",
+      "04ec7d57461675831bf4",
+      "b9d984e29e00ba9bbd6e",
+      "c462f6f3d85690889bf7",
+      "747743f48feb22245a11",
+      "505270839e3e6fde51fc",
+      "511885149d4496671cef",
+      "536a6e20945c3ace4968",
+      "33e80ccbfd2b3a42ba29",
+      "f95c206abace4812efcc",
+      "e814e82e03d9b21a39ed",
+      "ada8d182bb02f7e00650",
+      "6580404430519dc1fc68",
+      "2793ee9fbf058144a265",
+      "6359ecfcd25ba165ef32",
+      "85f58fdcf17784e8d2f1",
+      "28b5eaf04bd09d9dbae9",
+      "0029625457c9c1d7d75d",
+      "2bc5b3ef7a663fb7aa20",
+      "f04b219fdfbc51d03622"
+    ]
+  },
+  {
+    "session_key": "706b63d4c1864360dc2e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c0b20a9a15e531c3d5f6"
+    ]
+  },
+  {
+    "session_key": "9e1fc09f49a3ecd47e5b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "63eb76ef6d84e1609bb6"
+    ]
+  },
+  {
+    "session_key": "b8c01b1f6fbeccd71765",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7f89e6e7959b5f67a5c6"
+    ]
+  },
+  {
+    "session_key": "428b93fba4db676a310e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "abad0a683eb1de19f00a"
+    ]
+  },
+  {
+    "session_key": "e6c0e525bc753d2be8df",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "eb3c4c1d45104f04f604"
+    ]
+  },
+  {
+    "session_key": "0fd3714fd9e8d275ee14",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "9f91e419ac2a144d9d2c"
+    ]
+  },
+  {
+    "session_key": "4ec22bf3699e22bfa38e",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "6d276ebbb4d42d9fd6ca"
+    ]
+  },
+  {
+    "session_key": "ef4ce6ff0c1b76518216",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "e90326094537f58c5bbe"
+    ]
+  },
+  {
+    "session_key": "d590163c5bbd602af166",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "8f509da82d8beb974be5"
+    ]
+  },
+  {
+    "session_key": "ddd21282e7ed01ad11b2",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "cf3e6d9d0a46f40bd640"
+    ]
+  },
+  {
+    "session_key": "1bd5ad27a0666d00abf3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 9,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "b0723ea6858d4a6e79af"
+    ]
+  },
+  {
+    "session_key": "e66b9a03903d20c316c9",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "c2b2386667acbea5fdd4",
+      "d68be9b43048914279c7",
+      "96268e72ab868fb772b1",
+      "b0d6dd4ae1f67aa19328",
+      "ce8027f264f56c7a8a44",
+      "b45681f621fc480ba517",
+      "ae5f92781f207508cd1d",
+      "0ea7275e8464a44267d7",
+      "70bb351b37b35f48ca60",
+      "25237dfae080a592f82c",
+      "1706c456e1523903e1fd"
+    ]
+  },
+  {
+    "session_key": "59678a4c854828b68458",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "b9d9da931d216cd34900",
+      "b2d755390d3be17af8cc",
+      "b5490b34bd423e3e2068",
+      "34e607ed872a1480819c",
+      "3055c34703f4e6d11561",
+      "974352eace24cb9aaba9",
+      "3e2c28c2659b9742b6aa",
+      "00c692f9584b000aa1de",
+      "e13ff092a82ddda1c603",
+      "37a563d13ff3f9c2ed44",
+      "b6429eba7f2f034d995f",
+      "ce0e72804049c27b9dbe",
+      "aeebdc979e8b31685d09",
+      "92efcd889cce329d8f73",
+      "f62f2b1bc6d518d35184",
+      "fb35cff66a8ecdb177cf",
+      "55b5fc94a18aff4164a8",
+      "4138d8b33efb6f6ae547",
+      "f6717e1c7672fac808b2",
+      "dbc4787985181592be38",
+      "198c057124d9d5fce4e6",
+      "3a2dc6e6d9517e457f6d"
+    ]
+  },
+  {
+    "session_key": "46568549a670ff7099cf",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "20207bc1b78e3fb08998"
+    ]
+  },
+  {
+    "session_key": "d15221861a7d8ab62221",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "73e9b53b7f16aa12dabb"
+    ]
+  },
+  {
+    "session_key": "713089c153dc9f079dfa",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "aeaf18cbb8f8a5e73080"
+    ]
+  },
+  {
+    "session_key": "6c467a583d338b9c8815",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "72f6a1d76ce101d54bf9"
+    ]
+  },
+  {
+    "session_key": "719be39ba05237faf59f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "7b1399de0aa489307160"
+    ]
+  },
+  {
+    "session_key": "9af09bc85c117133e815",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "1929ae05ed85221fcc5e"
+    ]
+  },
+  {
+    "session_key": "dbaa8fadb991c72179b8",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "aaac46bee34c9d11d224"
+    ]
+  },
+  {
+    "session_key": "c90fb2becc66ccfbd4e3",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0e54dba4dd0efaa47336"
+    ]
+  },
+  {
+    "session_key": "9159da0dbf22ec5cc10b",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "89512a5bd6f6df2b510c"
+    ]
+  },
+  {
+    "session_key": "14559e8429fd1556aba5",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "c7b04c2a9472160074da"
+    ]
+  },
+  {
+    "session_key": "8c0b75a424b494779372",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "warm_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "0ff9a69b11d60e3dda74"
+    ]
+  },
+  {
+    "session_key": "1c9ab80cb68e9ec2e1b9",
+    "role": "evaluator",
+    "arm": "S",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 11,
+    "ordered_jobs": [
+      "857775ef44c7dfe9bac9",
+      "1947a1dcd80237b37a9e",
+      "868aca94aa40eb8cf48d",
+      "c7c39aea3220431fe554",
+      "cdec6ae0f310773ff2cf",
+      "97ec6d16ec46208a89d1",
+      "47fd43fda7d930cc6815",
+      "49174f2e891e4585ed80",
+      "09c7f8c4f0ccb47d1d2b",
+      "451a058da69f3316515d",
+      "ff82df765474b681494a"
+    ]
+  },
+  {
+    "session_key": "eb81080032631d960054",
+    "role": "coordinator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 22,
+    "ordered_jobs": [
+      "288b72371ab6b9bccb2a",
+      "4f8574d600c63a4b489d",
+      "40fb6529e8829341d9f5",
+      "0bc14f2b61ee56ce75f2",
+      "f7cb684d3062cccfc4b8",
+      "56bfa182a7d9f292209b",
+      "7baab304d96a2ed8d59b",
+      "1bd19b7377271511b68f",
+      "04b8372552cc98ec62ea",
+      "b53e1387eded252b4340",
+      "5d3ac7ec0686c3caaad1",
+      "c10c61834b9b75ce2257",
+      "aae0b70e60cb6901464d",
+      "c930841029c3a6ac80d5",
+      "06631f17452676558828",
+      "6640ff5f21b000d9536f",
+      "312470269c150f4f1246",
+      "8884055ac2c8672ec937",
+      "113679d4d4de2919501b",
+      "ed6a44b54358437647a6",
+      "c2c36f14e1f7e3088d02",
+      "55ff5c8129f2047cc26f"
+    ]
+  },
+  {
+    "session_key": "719408f7853dfa43fba4",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d68bb846aace0bfe2773"
+    ]
+  },
+  {
+    "session_key": "e46dc029706e55e95e4a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "147b47912aa00072a625"
+    ]
+  },
+  {
+    "session_key": "01d87ab9e6339245d044",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "3fe414d12f3eaa7b4208"
+    ]
+  },
+  {
+    "session_key": "36c5dafff152c509cab1",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "d59e061e93148ff82863"
+    ]
+  },
+  {
+    "session_key": "540b374741b9cf6eba5f",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "24237cac41aa493aa346"
+    ]
+  },
+  {
+    "session_key": "dc08a1fc66253ff32dc7",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "42462b94e77cc786a424"
+    ]
+  },
+  {
+    "session_key": "e8ea9ca85aa262f35902",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "fac58d9f8a0a6786b49f"
+    ]
+  },
+  {
+    "session_key": "7581e022c707108dc593",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "158a517f3809cdb01f24"
+    ]
+  },
+  {
+    "session_key": "06f59ec028c78ed2b82a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "688e3d0b5ccd7e8910db"
+    ]
+  },
+  {
+    "session_key": "60864d2b787b53c8e817",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "2a6ec334473558716080"
+    ]
+  },
+  {
+    "session_key": "d1a054999565398d9a1a",
+    "role": "evaluator",
+    "arm": "M",
+    "pattern": "alternating",
+    "replicate": 10,
+    "sequence": "cool_first",
+    "turns": 1,
+    "ordered_jobs": [
+      "65725db53c99d636fa14"
+    ]
+  }
+]

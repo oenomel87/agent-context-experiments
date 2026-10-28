@@ -1,0 +1,132 @@
+{
+  "code_and_input_sources": [
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/boundary.py",
+      "original_sha256": "2e24011c38008bb06dd90a10385f204e60d630fb75ca120e6b09d42ca994c404"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/contracts.py",
+      "original_sha256": "4a4b2cf89c3cc5bd1438fd521ca4b0c5df199d186ebc8083cfcbdf25ea3d245c"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/run_experiment.py",
+      "original_sha256": "abe1390a1482f095aec51952fdd418468d43dc28f92cd4182635da9477ee9106"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/report_results.py",
+      "original_sha256": "6e97d63d42420a610adfd92996073dc4bde3464cc6ea6b01ae2d70fe9ac0ceb8"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/session_audit.py",
+      "original_sha256": "9d0bd8f41c33c7eac7f8adb102714f6daf314f7b2774d0626a032e25d08b33aa"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/freeze.py",
+      "original_sha256": "fe9342717f0a717c378446fa542bb338c96ef913e8b74367fd21382801ec11a8"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/src/verify_run.py",
+      "original_sha256": "934a6f445437a4b7009dbc1b6ed9c441c25d42f3c304b7a3168c6ae613b68b5d"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/data/stimuli.json",
+      "original_sha256": "482dda9afa46a772954a92029cdde33194dfa150addd71128845c0517326400d"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/data/neutral-probe.json",
+      "original_sha256": "5b8bd481e6bb8acc769034d1f3c37c9394495b6a3c1fc7d9c829fb304abfad3b"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/data/rubric.json",
+      "original_sha256": "f5ef530b08f287379594c91f762a641923cba8a7cff5adcf26375b052efdc57d"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/data/plan.json",
+      "original_sha256": "482436010b2a70d084b6b0e58d8e2d46ae14292fcb1aecf86c019effbcaa7d3b"
+    },
+    {
+      "experiment": "homogeneous",
+      "file": "experiments/homogeneous/data/plan-sessions.json",
+      "original_sha256": "8c123e5ab813c4690343f59b59daa226e21ad312913b519b8fd6fcf7eb5763da"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/boundary.py",
+      "original_sha256": "2e24011c38008bb06dd90a10385f204e60d630fb75ca120e6b09d42ca994c404"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/contracts.py",
+      "original_sha256": "4a4b2cf89c3cc5bd1438fd521ca4b0c5df199d186ebc8083cfcbdf25ea3d245c"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/run_experiment.py",
+      "original_sha256": "41434925539451b58ca503621870a98764faffc0708434029bbfb7ef66c744c4"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/report_results.py",
+      "original_sha256": "62a010ef8cd609ac044d514ea8ee9a5cc85d49d195000b502ce7afa3cbc55419"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/session_audit.py",
+      "original_sha256": "9d0bd8f41c33c7eac7f8adb102714f6daf314f7b2774d0626a032e25d08b33aa"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/freeze.py",
+      "original_sha256": "2083b70de41f5807d99a2fdd75c889e57612c6ffee7952086d5848f6094d4764"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/src/verify_run.py",
+      "original_sha256": "48765a098447220f6744ecc16b509c1371f2274d6e1b7931b72b7304cb51c412"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/data/stimuli.json",
+      "original_sha256": "482dda9afa46a772954a92029cdde33194dfa150addd71128845c0517326400d"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/data/neutral-probe.json",
+      "original_sha256": "5b8bd481e6bb8acc769034d1f3c37c9394495b6a3c1fc7d9c829fb304abfad3b"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/data/rubric.json",
+      "original_sha256": "f5ef530b08f287379594c91f762a641923cba8a7cff5adcf26375b052efdc57d"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/data/plan.json",
+      "original_sha256": "ee689a1dd443e39444843cd5ead5dc3c34ba9e67fa0a8cc1cf043e4b537077c7"
+    },
+    {
+      "experiment": "alternating",
+      "file": "experiments/alternating/data/plan-sessions.json",
+      "original_sha256": "39001160e17719974ce7b74a831f01a008aaa1bf1ce0dd75ed6ee672f510e90e"
+    }
+  ],
+  "transformations": [
+    "Shared portable backend path",
+    "Live adapter opt-in gate",
+    "Plan metadata reflects historical execution; job assignments unchanged",
+    "Provider identifiers replaced by consistent aliases; raw logs and private paths omitted",
+    "Original-text tests use the published original-input SHA256 instead of a private historical run path; reporting source label points to the public baseline file."
+  ],
+  "original_response_values_preserved": true
+}

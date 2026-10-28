@@ -1,0 +1,49 @@
+{
+  "unique_design_assignments": 1970,
+  "canonical_statuses": {
+    "completed": 1930,
+    "failed": 6,
+    "blocked": 34
+  },
+  "unique_valid_evaluations": 1078,
+  "homogeneous": {
+    "planned": 1090,
+    "completed": 1069,
+    "failed": 3,
+    "blocked": 18,
+    "valid_evaluations": 644,
+    "actual_attempts_in_canonical": 1072,
+    "interruption_excluded_completed": 3,
+    "interruption_unrecorded_attempts": 6,
+    "unrecorded_attempts_with_sdk_completion_evidence": 1,
+    "interruption_unknown_usage_attempts": 5,
+    "extra_known_usage": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 12928,
+      "input_tokens": 23654,
+      "output_tokens": 1292,
+      "reasoning_output_tokens": 0
+    },
+    "preserved_terminal_records": 666,
+    "restart_policy": "Restart entire interrupted native flows and their dependent children. Do not replay or splice histories. Model errors preserved, not retried."
+  },
+  "alternating": {
+    "new_planned": 880,
+    "reused_baselines": 210,
+    "completed": 861,
+    "failed": 3,
+    "blocked": 16,
+    "new_valid_evaluations": 434,
+    "actual_attempts": 864,
+    "timeout_unknown_usage_attempts": 1,
+    "retries": 0
+  },
+  "technical_preflight": {
+    "calls": 9,
+    "reused_by_alternating": true,
+    "included_in_observations": false
+  },
+  "total_sdk_call_attempts_including_technical_and_interruption": 1954,
+  "total_attempts_with_unknown_usage": 6,
+  "note": "Call attempts are not proof of billable provider execution. Canonical blocked assignments were not attempted. Technical and superseded attempts are not counted as study observations."
+}
